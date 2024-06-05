@@ -1,0 +1,6592 @@
+{
+	"UK": {
+		"1918": {
+			"CON": {
+				"Votes": 4144192,
+				"Total Votes": 10786818,
+				"Candidates": 445,
+				"Total Candidates": 1623,
+				"Seats": 382,
+				"Total Seats": 707,
+				"Vote Share": 0.387
+			},
+			"LAB": {
+				"Votes": 2245777,
+				"Total Votes": 10786818,
+				"Candidates": 361,
+				"Total Candidates": 1623,
+				"Seats": 57,
+				"Total Seats": 707,
+				"Vote Share": 0.208
+			},
+			"LD": {
+				"Votes": 2785374,
+				"Total Votes": 10786818,
+				"Candidates": 421,
+				"Total Candidates": 1623,
+				"Seats": 163,
+				"Total Seats": 707,
+				"Vote Share": 0.256
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 10786818,
+				"Candidates": null,
+				"Total Candidates": 1623,
+				"Seats": null,
+				"Total Seats": 707,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 1611475,
+				"Total Votes": 10786818,
+				"Candidates": 396,
+				"Total Candidates": 1623,
+				"Seats": 105,
+				"Total Seats": 707,
+				"Vote Share": 0.149
+			}
+		},
+		"1922": {
+			"CON": {
+				"Votes": 5502298,
+				"Total Votes": 14392330,
+				"Candidates": 482,
+				"Total Candidates": 1441,
+				"Seats": 344,
+				"Total Seats": 615,
+				"Vote Share": 0.385
+			},
+			"LAB": {
+				"Votes": 4237349,
+				"Total Votes": 14392330,
+				"Candidates": 414,
+				"Total Candidates": 1441,
+				"Seats": 142,
+				"Total Seats": 615,
+				"Vote Share": 0.297
+			},
+			"LD": {
+				"Votes": 4139460,
+				"Total Votes": 14392330,
+				"Candidates": 485,
+				"Total Candidates": 1441,
+				"Seats": 115,
+				"Total Seats": 615,
+				"Vote Share": 0.288
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 14392330,
+				"Candidates": null,
+				"Total Candidates": 1441,
+				"Seats": null,
+				"Total Seats": 615,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 513223,
+				"Total Votes": 14392330,
+				"Candidates": 60,
+				"Total Candidates": 1441,
+				"Seats": 14,
+				"Total Seats": 615,
+				"Vote Share": 0.03
+			}
+		},
+		"1923": {
+			"CON": {
+				"Votes": 5514541,
+				"Total Votes": 14547695,
+				"Candidates": 536,
+				"Total Candidates": 1446,
+				"Seats": 258,
+				"Total Seats": 615,
+				"Vote Share": 0.38
+			},
+			"LAB": {
+				"Votes": 4439780,
+				"Total Votes": 14547695,
+				"Candidates": 427,
+				"Total Candidates": 1446,
+				"Seats": 191,
+				"Total Seats": 615,
+				"Vote Share": 0.307
+			},
+			"LD": {
+				"Votes": 4301481,
+				"Total Votes": 14547695,
+				"Candidates": 457,
+				"Total Candidates": 1446,
+				"Seats": 158,
+				"Total Seats": 615,
+				"Vote Share": 0.297
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 14547695,
+				"Candidates": null,
+				"Total Candidates": 1446,
+				"Seats": null,
+				"Total Seats": 615,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 291893,
+				"Total Votes": 14547695,
+				"Candidates": 26,
+				"Total Candidates": 1446,
+				"Seats": 8,
+				"Total Seats": 615,
+				"Vote Share": 0.016
+			}
+		},
+		"1924": {
+			"CON": {
+				"Votes": 7854523,
+				"Total Votes": 16640279,
+				"Candidates": 534,
+				"Total Candidates": 1428,
+				"Seats": 412,
+				"Total Seats": 615,
+				"Vote Share": 0.468
+			},
+			"LAB": {
+				"Votes": 5489087,
+				"Total Votes": 16640279,
+				"Candidates": 514,
+				"Total Candidates": 1428,
+				"Seats": 151,
+				"Total Seats": 615,
+				"Vote Share": 0.333
+			},
+			"LD": {
+				"Votes": 2928737,
+				"Total Votes": 16640279,
+				"Candidates": 339,
+				"Total Candidates": 1428,
+				"Seats": 40,
+				"Total Seats": 615,
+				"Vote Share": 0.178
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 16640279,
+				"Candidates": null,
+				"Total Candidates": 1428,
+				"Seats": null,
+				"Total Seats": 615,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 367932,
+				"Total Votes": 16640279,
+				"Candidates": 41,
+				"Total Candidates": 1428,
+				"Seats": 12,
+				"Total Seats": 615,
+				"Vote Share": 0.021
+			}
+		},
+		"1929": {
+			"CON": {
+				"Votes": 8656225,
+				"Total Votes": 22648375,
+				"Candidates": 590,
+				"Total Candidates": 1730,
+				"Seats": 260,
+				"Total Seats": 615,
+				"Vote Share": 0.381
+			},
+			"LAB": {
+				"Votes": 8370417,
+				"Total Votes": 22648375,
+				"Candidates": 569,
+				"Total Candidates": 1730,
+				"Seats": 287,
+				"Total Seats": 615,
+				"Vote Share": 0.371
+			},
+			"LD": {
+				"Votes": 5308738,
+				"Total Votes": 22648375,
+				"Candidates": 513,
+				"Total Candidates": 1730,
+				"Seats": 59,
+				"Total Seats": 615,
+				"Vote Share": 0.235
+			},
+			"PC/SNP": {
+				"Votes": 3922,
+				"Total Votes": 22648375,
+				"Candidates": 3,
+				"Total Candidates": 1730,
+				"Seats": 0,
+				"Total Seats": 615,
+				"Vote Share": 0.0
+			},
+			"Other": {
+				"Votes": 309073,
+				"Total Votes": 22648375,
+				"Candidates": 55,
+				"Total Candidates": 1730,
+				"Seats": 9,
+				"Total Seats": 615,
+				"Vote Share": 0.013
+			}
+		},
+		"1931": {
+			"CON": {
+				"Votes": 13156790,
+				"Total Votes": 21656373,
+				"Candidates": 583,
+				"Total Candidates": 1292,
+				"Seats": 522,
+				"Total Seats": 615,
+				"Vote Share": 0.607
+			},
+			"LAB": {
+				"Votes": 6649630,
+				"Total Votes": 21656373,
+				"Candidates": 516,
+				"Total Candidates": 1292,
+				"Seats": 52,
+				"Total Seats": 615,
+				"Vote Share": 0.309
+			},
+			"LD": {
+				"Votes": 1476123,
+				"Total Votes": 21656373,
+				"Candidates": 117,
+				"Total Candidates": 1292,
+				"Seats": 36,
+				"Total Seats": 615,
+				"Vote Share": 0.07
+			},
+			"PC/SNP": {
+				"Votes": 23004,
+				"Total Votes": 21656373,
+				"Candidates": 7,
+				"Total Candidates": 1292,
+				"Seats": 0,
+				"Total Seats": 615,
+				"Vote Share": 0.001
+			},
+			"Other": {
+				"Votes": 350826,
+				"Total Votes": 21656373,
+				"Candidates": 69,
+				"Total Candidates": 1292,
+				"Seats": 5,
+				"Total Seats": 615,
+				"Vote Share": 0.013
+			}
+		},
+		"1935": {
+			"CON": {
+				"Votes": 11755654,
+				"Total Votes": 21997054,
+				"Candidates": 583,
+				"Total Candidates": 1348,
+				"Seats": 429,
+				"Total Seats": 615,
+				"Vote Share": 0.533
+			},
+			"LAB": {
+				"Votes": 8325491,
+				"Total Votes": 21997054,
+				"Candidates": 552,
+				"Total Candidates": 1348,
+				"Seats": 154,
+				"Total Seats": 615,
+				"Vote Share": 0.38
+			},
+			"LD": {
+				"Votes": 1443093,
+				"Total Votes": 21997054,
+				"Candidates": 161,
+				"Total Candidates": 1348,
+				"Seats": 21,
+				"Total Seats": 615,
+				"Vote Share": 0.067
+			},
+			"PC/SNP": {
+				"Votes": 32051,
+				"Total Votes": 21997054,
+				"Candidates": 9,
+				"Total Candidates": 1348,
+				"Seats": 0,
+				"Total Seats": 615,
+				"Vote Share": 0.001
+			},
+			"Other": {
+				"Votes": 440765,
+				"Total Votes": 21997054,
+				"Candidates": 43,
+				"Total Candidates": 1348,
+				"Seats": 11,
+				"Total Seats": 615,
+				"Vote Share": 0.019
+			}
+		},
+		"1945": {
+			"CON": {
+				"Votes": 9972010,
+				"Total Votes": 25095195,
+				"Candidates": 618,
+				"Total Candidates": 1683,
+				"Seats": 210,
+				"Total Seats": 640,
+				"Vote Share": 0.396
+			},
+			"LAB": {
+				"Votes": 11967746,
+				"Total Votes": 25095195,
+				"Candidates": 603,
+				"Total Candidates": 1683,
+				"Seats": 393,
+				"Total Seats": 640,
+				"Vote Share": 0.48
+			},
+			"LD": {
+				"Votes": 2252430,
+				"Total Votes": 25095195,
+				"Candidates": 306,
+				"Total Candidates": 1683,
+				"Seats": 12,
+				"Total Seats": 640,
+				"Vote Share": 0.09
+			},
+			"PC/SNP": {
+				"Votes": 46612,
+				"Total Votes": 25095195,
+				"Candidates": 15,
+				"Total Candidates": 1683,
+				"Seats": 0,
+				"Total Seats": 640,
+				"Vote Share": 0.002
+			},
+			"Other": {
+				"Votes": 856397,
+				"Total Votes": 25095195,
+				"Candidates": 141,
+				"Total Candidates": 1683,
+				"Seats": 25,
+				"Total Seats": 640,
+				"Vote Share": 0.032
+			}
+		},
+		"1950": {
+			"CON": {
+				"Votes": 12492404,
+				"Total Votes": 28771124,
+				"Candidates": 619,
+				"Total Candidates": 1868,
+				"Seats": 298,
+				"Total Seats": 625,
+				"Vote Share": 0.434
+			},
+			"LAB": {
+				"Votes": 13266176,
+				"Total Votes": 28771124,
+				"Candidates": 617,
+				"Total Candidates": 1868,
+				"Seats": 315,
+				"Total Seats": 625,
+				"Vote Share": 0.461
+			},
+			"LD": {
+				"Votes": 2621487,
+				"Total Votes": 28771124,
+				"Candidates": 475,
+				"Total Candidates": 1868,
+				"Seats": 9,
+				"Total Seats": 625,
+				"Vote Share": 0.091
+			},
+			"PC/SNP": {
+				"Votes": 27288,
+				"Total Votes": 28771124,
+				"Candidates": 10,
+				"Total Candidates": 1868,
+				"Seats": 0,
+				"Total Seats": 625,
+				"Vote Share": 0.001
+			},
+			"Other": {
+				"Votes": 363769,
+				"Total Votes": 28771124,
+				"Candidates": 147,
+				"Total Candidates": 1868,
+				"Seats": 3,
+				"Total Seats": 625,
+				"Vote Share": 0.013
+			}
+		},
+		"1951": {
+			"CON": {
+				"Votes": 13718199,
+				"Total Votes": 28596594,
+				"Candidates": 617,
+				"Total Candidates": 1376,
+				"Seats": 321,
+				"Total Seats": 625,
+				"Vote Share": 0.48
+			},
+			"LAB": {
+				"Votes": 13948883,
+				"Total Votes": 28596594,
+				"Candidates": 617,
+				"Total Candidates": 1376,
+				"Seats": 295,
+				"Total Seats": 625,
+				"Vote Share": 0.488
+			},
+			"LD": {
+				"Votes": 730546,
+				"Total Votes": 28596594,
+				"Candidates": 109,
+				"Total Candidates": 1376,
+				"Seats": 6,
+				"Total Seats": 625,
+				"Vote Share": 0.026
+			},
+			"PC/SNP": {
+				"Votes": 18219,
+				"Total Votes": 28596594,
+				"Candidates": 6,
+				"Total Candidates": 1376,
+				"Seats": 0,
+				"Total Seats": 625,
+				"Vote Share": 0.001
+			},
+			"Other": {
+				"Votes": 180747,
+				"Total Votes": 28596594,
+				"Candidates": 27,
+				"Total Candidates": 1376,
+				"Seats": 3,
+				"Total Seats": 625,
+				"Vote Share": 0.006
+			}
+		},
+		"1955": {
+			"CON": {
+				"Votes": 13310891,
+				"Total Votes": 26759729,
+				"Candidates": 624,
+				"Total Candidates": 1409,
+				"Seats": 345,
+				"Total Seats": 630,
+				"Vote Share": 0.497
+			},
+			"LAB": {
+				"Votes": 12405254,
+				"Total Votes": 26759729,
+				"Candidates": 620,
+				"Total Candidates": 1409,
+				"Seats": 277,
+				"Total Seats": 630,
+				"Vote Share": 0.464
+			},
+			"LD": {
+				"Votes": 722402,
+				"Total Votes": 26759729,
+				"Candidates": 110,
+				"Total Candidates": 1409,
+				"Seats": 6,
+				"Total Seats": 630,
+				"Vote Share": 0.027
+			},
+			"PC/SNP": {
+				"Votes": 57231,
+				"Total Votes": 26759729,
+				"Candidates": 13,
+				"Total Candidates": 1409,
+				"Seats": 0,
+				"Total Seats": 630,
+				"Vote Share": 0.002
+			},
+			"Other": {
+				"Votes": 263951,
+				"Total Votes": 26759729,
+				"Candidates": 42,
+				"Total Candidates": 1409,
+				"Seats": 2,
+				"Total Seats": 630,
+				"Vote Share": 0.01
+			}
+		},
+		"1959": {
+			"CON": {
+				"Votes": 13750875,
+				"Total Votes": 27862652,
+				"Candidates": 625,
+				"Total Candidates": 1536,
+				"Seats": 365,
+				"Total Seats": 630,
+				"Vote Share": 0.494
+			},
+			"LAB": {
+				"Votes": 12216172,
+				"Total Votes": 27862652,
+				"Candidates": 621,
+				"Total Candidates": 1536,
+				"Seats": 258,
+				"Total Seats": 630,
+				"Vote Share": 0.438
+			},
+			"LD": {
+				"Votes": 1640760,
+				"Total Votes": 27862652,
+				"Candidates": 216,
+				"Total Candidates": 1536,
+				"Seats": 6,
+				"Total Seats": 630,
+				"Vote Share": 0.059
+			},
+			"PC/SNP": {
+				"Votes": 99309,
+				"Total Votes": 27862652,
+				"Candidates": 25,
+				"Total Candidates": 1536,
+				"Seats": 0,
+				"Total Seats": 630,
+				"Vote Share": 0.004
+			},
+			"Other": {
+				"Votes": 155536,
+				"Total Votes": 27862652,
+				"Candidates": 49,
+				"Total Candidates": 1536,
+				"Seats": 1,
+				"Total Seats": 630,
+				"Vote Share": 0.006
+			}
+		},
+		"1964": {
+			"CON": {
+				"Votes": 12002642,
+				"Total Votes": 27657148,
+				"Candidates": 630,
+				"Total Candidates": 1757,
+				"Seats": 304,
+				"Total Seats": 630,
+				"Vote Share": 0.434
+			},
+			"LAB": {
+				"Votes": 12205808,
+				"Total Votes": 27657148,
+				"Candidates": 628,
+				"Total Candidates": 1757,
+				"Seats": 317,
+				"Total Seats": 630,
+				"Vote Share": 0.441
+			},
+			"LD": {
+				"Votes": 3099283,
+				"Total Votes": 27657148,
+				"Candidates": 365,
+				"Total Candidates": 1757,
+				"Seats": 9,
+				"Total Seats": 630,
+				"Vote Share": 0.112
+			},
+			"PC/SNP": {
+				"Votes": 133551,
+				"Total Votes": 27657148,
+				"Candidates": 38,
+				"Total Candidates": 1757,
+				"Seats": 0,
+				"Total Seats": 630,
+				"Vote Share": 0.005
+			},
+			"Other": {
+				"Votes": 215864,
+				"Total Votes": 27657148,
+				"Candidates": 96,
+				"Total Candidates": 1757,
+				"Seats": 0,
+				"Total Seats": 630,
+				"Vote Share": 0.008
+			}
+		},
+		"1966": {
+			"CON": {
+				"Votes": 11418455,
+				"Total Votes": 27264747,
+				"Candidates": 629,
+				"Total Candidates": 1707,
+				"Seats": 253,
+				"Total Seats": 630,
+				"Vote Share": 0.419
+			},
+			"LAB": {
+				"Votes": 13096629,
+				"Total Votes": 27264747,
+				"Candidates": 622,
+				"Total Candidates": 1707,
+				"Seats": 364,
+				"Total Seats": 630,
+				"Vote Share": 0.48
+			},
+			"LD": {
+				"Votes": 2327457,
+				"Total Votes": 27264747,
+				"Candidates": 311,
+				"Total Candidates": 1707,
+				"Seats": 12,
+				"Total Seats": 630,
+				"Vote Share": 0.085
+			},
+			"PC/SNP": {
+				"Votes": 189545,
+				"Total Votes": 27264747,
+				"Candidates": 43,
+				"Total Candidates": 1707,
+				"Seats": 0,
+				"Total Seats": 630,
+				"Vote Share": 0.007
+			},
+			"Other": {
+				"Votes": 232661,
+				"Total Votes": 27264747,
+				"Candidates": 102,
+				"Total Candidates": 1707,
+				"Seats": 1,
+				"Total Seats": 630,
+				"Vote Share": 0.009
+			}
+		},
+		"1970": {
+			"CON": {
+				"Votes": 13145123,
+				"Total Votes": 28344798,
+				"Candidates": 628,
+				"Total Candidates": 1837,
+				"Seats": 330,
+				"Total Seats": 630,
+				"Vote Share": 0.464
+			},
+			"LAB": {
+				"Votes": 12208758,
+				"Total Votes": 28344798,
+				"Candidates": 625,
+				"Total Candidates": 1837,
+				"Seats": 288,
+				"Total Seats": 630,
+				"Vote Share": 0.431
+			},
+			"LD": {
+				"Votes": 2117035,
+				"Total Votes": 28344798,
+				"Candidates": 332,
+				"Total Candidates": 1837,
+				"Seats": 6,
+				"Total Seats": 630,
+				"Vote Share": 0.075
+			},
+			"PC/SNP": {
+				"Votes": 481818,
+				"Total Votes": 28344798,
+				"Candidates": 101,
+				"Total Candidates": 1837,
+				"Seats": 1,
+				"Total Seats": 630,
+				"Vote Share": 0.017
+			},
+			"Other": {
+				"Votes": 392064,
+				"Total Votes": 28344798,
+				"Candidates": 151,
+				"Total Candidates": 1837,
+				"Seats": 5,
+				"Total Seats": 630,
+				"Vote Share": 0.014
+			}
+		},
+		"1974F": {
+			"CON": {
+				"Votes": 11872180,
+				"Total Votes": 31340162,
+				"Candidates": 623,
+				"Total Candidates": 2135,
+				"Seats": 297,
+				"Total Seats": 635,
+				"Vote Share": 0.379
+			},
+			"LAB": {
+				"Votes": 11645616,
+				"Total Votes": 31340162,
+				"Candidates": 623,
+				"Total Candidates": 2135,
+				"Seats": 301,
+				"Total Seats": 635,
+				"Vote Share": 0.372
+			},
+			"LD": {
+				"Votes": 6059519,
+				"Total Votes": 31340162,
+				"Candidates": 517,
+				"Total Candidates": 2135,
+				"Seats": 14,
+				"Total Seats": 635,
+				"Vote Share": 0.193
+			},
+			"PC/SNP": {
+				"Votes": 804554,
+				"Total Votes": 31340162,
+				"Candidates": 106,
+				"Total Candidates": 2135,
+				"Seats": 9,
+				"Total Seats": 635,
+				"Vote Share": 0.026
+			},
+			"Other": {
+				"Votes": 958293,
+				"Total Votes": 31340162,
+				"Candidates": 266,
+				"Total Candidates": 2135,
+				"Seats": 14,
+				"Total Seats": 635,
+				"Vote Share": 0.031
+			}
+		},
+		"1974O": {
+			"CON": {
+				"Votes": 10462565,
+				"Total Votes": 29189104,
+				"Candidates": 622,
+				"Total Candidates": 2252,
+				"Seats": 277,
+				"Total Seats": 635,
+				"Vote Share": 0.358
+			},
+			"LAB": {
+				"Votes": 11457079,
+				"Total Votes": 29189104,
+				"Candidates": 623,
+				"Total Candidates": 2252,
+				"Seats": 319,
+				"Total Seats": 635,
+				"Vote Share": 0.393
+			},
+			"LD": {
+				"Votes": 5346704,
+				"Total Votes": 29189104,
+				"Candidates": 619,
+				"Total Candidates": 2252,
+				"Seats": 13,
+				"Total Seats": 635,
+				"Vote Share": 0.183
+			},
+			"PC/SNP": {
+				"Votes": 1005938,
+				"Total Votes": 29189104,
+				"Candidates": 107,
+				"Total Candidates": 2252,
+				"Seats": 14,
+				"Total Seats": 635,
+				"Vote Share": 0.034
+			},
+			"Other": {
+				"Votes": 916818,
+				"Total Votes": 29189104,
+				"Candidates": 281,
+				"Total Candidates": 2252,
+				"Seats": 12,
+				"Total Seats": 635,
+				"Vote Share": 0.031
+			}
+		},
+		"1979": {
+			"CON": {
+				"Votes": 13697923,
+				"Total Votes": 31221362,
+				"Candidates": 622,
+				"Total Candidates": 2576,
+				"Seats": 339,
+				"Total Seats": 635,
+				"Vote Share": 0.439
+			},
+			"LAB": {
+				"Votes": 11532218,
+				"Total Votes": 31221362,
+				"Candidates": 623,
+				"Total Candidates": 2576,
+				"Seats": 269,
+				"Total Seats": 635,
+				"Vote Share": 0.369
+			},
+			"LD": {
+				"Votes": 4313804,
+				"Total Votes": 31221362,
+				"Candidates": 577,
+				"Total Candidates": 2576,
+				"Seats": 11,
+				"Total Seats": 635,
+				"Vote Share": 0.138
+			},
+			"PC/SNP": {
+				"Votes": 636803,
+				"Total Votes": 31221362,
+				"Candidates": 107,
+				"Total Candidates": 2576,
+				"Seats": 4,
+				"Total Seats": 635,
+				"Vote Share": 0.02
+			},
+			"Other": {
+				"Votes": 1040614,
+				"Total Votes": 31221362,
+				"Candidates": 647,
+				"Total Candidates": 2576,
+				"Seats": 12,
+				"Total Seats": 635,
+				"Vote Share": 0.033
+			}
+		},
+		"1983": {
+			"CON": {
+				"Votes": 13012316,
+				"Total Votes": 30671137,
+				"Candidates": 633,
+				"Total Candidates": 2578,
+				"Seats": 397,
+				"Total Seats": 650,
+				"Vote Share": 0.424
+			},
+			"LAB": {
+				"Votes": 8456934,
+				"Total Votes": 30671137,
+				"Candidates": 633,
+				"Total Candidates": 2578,
+				"Seats": 209,
+				"Total Seats": 650,
+				"Vote Share": 0.276
+			},
+			"LD": {
+				"Votes": 7780949,
+				"Total Votes": 30671137,
+				"Candidates": 633,
+				"Total Candidates": 2578,
+				"Seats": 23,
+				"Total Seats": 650,
+				"Vote Share": 0.254
+			},
+			"PC/SNP": {
+				"Votes": 457284,
+				"Total Votes": 30671137,
+				"Candidates": 110,
+				"Total Candidates": 2578,
+				"Seats": 4,
+				"Total Seats": 650,
+				"Vote Share": 0.015
+			},
+			"Other": {
+				"Votes": 963654,
+				"Total Votes": 30671137,
+				"Candidates": 569,
+				"Total Candidates": 2578,
+				"Seats": 17,
+				"Total Seats": 650,
+				"Vote Share": 0.031
+			}
+		},
+		"1987": {
+			"CON": {
+				"Votes": 13760583,
+				"Total Votes": 32529578,
+				"Candidates": 633,
+				"Total Candidates": 2325,
+				"Seats": 376,
+				"Total Seats": 650,
+				"Vote Share": 0.423
+			},
+			"LAB": {
+				"Votes": 10029807,
+				"Total Votes": 32529578,
+				"Candidates": 633,
+				"Total Candidates": 2325,
+				"Seats": 229,
+				"Total Seats": 650,
+				"Vote Share": 0.308
+			},
+			"LD": {
+				"Votes": 7341633,
+				"Total Votes": 32529578,
+				"Candidates": 633,
+				"Total Candidates": 2325,
+				"Seats": 22,
+				"Total Seats": 650,
+				"Vote Share": 0.226
+			},
+			"PC/SNP": {
+				"Votes": 540072,
+				"Total Votes": 32529578,
+				"Candidates": 109,
+				"Total Candidates": 2325,
+				"Seats": 6,
+				"Total Seats": 650,
+				"Vote Share": 0.017
+			},
+			"Other": {
+				"Votes": 857483,
+				"Total Votes": 32529578,
+				"Candidates": 317,
+				"Total Candidates": 2325,
+				"Seats": 17,
+				"Total Seats": 650,
+				"Vote Share": 0.026
+			}
+		},
+		"1992": {
+			"CON": {
+				"Votes": 14093007,
+				"Total Votes": 33614074,
+				"Candidates": 645,
+				"Total Candidates": 2949,
+				"Seats": 336,
+				"Total Seats": 651,
+				"Vote Share": 0.419
+			},
+			"LAB": {
+				"Votes": 11560484,
+				"Total Votes": 33614074,
+				"Candidates": 634,
+				"Total Candidates": 2949,
+				"Seats": 271,
+				"Total Seats": 651,
+				"Vote Share": 0.344
+			},
+			"LD": {
+				"Votes": 5999606,
+				"Total Votes": 33614074,
+				"Candidates": 632,
+				"Total Candidates": 2949,
+				"Seats": 20,
+				"Total Seats": 651,
+				"Vote Share": 0.178
+			},
+			"PC/SNP": {
+				"Votes": 784511,
+				"Total Votes": 33614074,
+				"Candidates": 107,
+				"Total Candidates": 2949,
+				"Seats": 7,
+				"Total Seats": 651,
+				"Vote Share": 0.023
+			},
+			"Other": {
+				"Votes": 1176466,
+				"Total Votes": 33614074,
+				"Candidates": 931,
+				"Total Candidates": 2949,
+				"Seats": 17,
+				"Total Seats": 651,
+				"Vote Share": 0.035
+			}
+		},
+		"1997": {
+			"CON": {
+				"Votes": 9600943,
+				"Total Votes": 31286284,
+				"Candidates": 648,
+				"Total Candidates": 3724,
+				"Seats": 165,
+				"Total Seats": 659,
+				"Vote Share": 0.307
+			},
+			"LAB": {
+				"Votes": 13518167,
+				"Total Votes": 31286284,
+				"Candidates": 639,
+				"Total Candidates": 3724,
+				"Seats": 418,
+				"Total Seats": 659,
+				"Vote Share": 0.432
+			},
+			"LD": {
+				"Votes": 5242947,
+				"Total Votes": 31286284,
+				"Candidates": 639,
+				"Total Candidates": 3724,
+				"Seats": 46,
+				"Total Seats": 659,
+				"Vote Share": 0.168
+			},
+			"PC/SNP": {
+				"Votes": 782580,
+				"Total Votes": 31286284,
+				"Candidates": 112,
+				"Total Candidates": 3724,
+				"Seats": 10,
+				"Total Seats": 659,
+				"Vote Share": 0.025
+			},
+			"Other": {
+				"Votes": 2141647,
+				"Total Votes": 31286284,
+				"Candidates": 1686,
+				"Total Candidates": 3724,
+				"Seats": 20,
+				"Total Seats": 659,
+				"Vote Share": 0.068
+			}
+		},
+		"2001": {
+			"CON": {
+				"Votes": 8337615,
+				"Total Votes": 26367383,
+				"Candidates": 643,
+				"Total Candidates": 3319,
+				"Seats": 166,
+				"Total Seats": 659,
+				"Vote Share": 0.316
+			},
+			"LAB": {
+				"Votes": 10724953,
+				"Total Votes": 26367383,
+				"Candidates": 640,
+				"Total Candidates": 3319,
+				"Seats": 412,
+				"Total Seats": 659,
+				"Vote Share": 0.407
+			},
+			"LD": {
+				"Votes": 4814321,
+				"Total Votes": 26367383,
+				"Candidates": 639,
+				"Total Candidates": 3319,
+				"Seats": 52,
+				"Total Seats": 659,
+				"Vote Share": 0.183
+			},
+			"PC/SNP": {
+				"Votes": 660207,
+				"Total Votes": 26367383,
+				"Candidates": 112,
+				"Total Candidates": 3319,
+				"Seats": 9,
+				"Total Seats": 659,
+				"Vote Share": 0.025
+			},
+			"Other": {
+				"Votes": 1830287,
+				"Total Votes": 26367383,
+				"Candidates": 1285,
+				"Total Candidates": 3319,
+				"Seats": 20,
+				"Total Seats": 659,
+				"Vote Share": 0.069
+			}
+		},
+		"2005": {
+			"CON": {
+				"Votes": 8784915,
+				"Total Votes": 27148510,
+				"Candidates": 630,
+				"Total Candidates": 3554,
+				"Seats": 198,
+				"Total Seats": 646,
+				"Vote Share": 0.324
+			},
+			"LAB": {
+				"Votes": 9552436,
+				"Total Votes": 27148510,
+				"Candidates": 627,
+				"Total Candidates": 3554,
+				"Seats": 355,
+				"Total Seats": 646,
+				"Vote Share": 0.352
+			},
+			"LD": {
+				"Votes": 5985454,
+				"Total Votes": 27148510,
+				"Candidates": 626,
+				"Total Candidates": 3554,
+				"Seats": 62,
+				"Total Seats": 646,
+				"Vote Share": 0.22
+			},
+			"PC/SNP": {
+				"Votes": 587105,
+				"Total Votes": 27148510,
+				"Candidates": 99,
+				"Total Candidates": 3554,
+				"Seats": 9,
+				"Total Seats": 646,
+				"Vote Share": 0.022
+			},
+			"Other": {
+				"Votes": 2238600,
+				"Total Votes": 27148510,
+				"Candidates": 1572,
+				"Total Candidates": 3554,
+				"Seats": 22,
+				"Total Seats": 646,
+				"Vote Share": 0.082
+			}
+		},
+		"2010": {
+			"CON": {
+				"Votes": 10703654,
+				"Total Votes": 29687604,
+				"Candidates": 631,
+				"Total Candidates": 4150,
+				"Seats": 306,
+				"Total Seats": 650,
+				"Vote Share": 0.361
+			},
+			"LAB": {
+				"Votes": 8606517,
+				"Total Votes": 29687604,
+				"Candidates": 631,
+				"Total Candidates": 4150,
+				"Seats": 258,
+				"Total Seats": 650,
+				"Vote Share": 0.29
+			},
+			"LD": {
+				"Votes": 6836248,
+				"Total Votes": 29687604,
+				"Candidates": 631,
+				"Total Candidates": 4150,
+				"Seats": 57,
+				"Total Seats": 650,
+				"Vote Share": 0.23
+			},
+			"PC/SNP": {
+				"Votes": 656780,
+				"Total Votes": 29687604,
+				"Candidates": 99,
+				"Total Candidates": 4150,
+				"Seats": 9,
+				"Total Seats": 650,
+				"Vote Share": 0.022
+			},
+			"Other": {
+				"Votes": 2884405,
+				"Total Votes": 29687604,
+				"Candidates": 2158,
+				"Total Candidates": 4150,
+				"Seats": 20,
+				"Total Seats": 650,
+				"Vote Share": 0.097
+			}
+		},
+		"2015": {
+			"CON": {
+				"Votes": 11299600,
+				"Total Votes": 30697500,
+				"Candidates": 647,
+				"Total Candidates": 3971,
+				"Seats": 330,
+				"Total Seats": 650,
+				"Vote Share": 0.368
+			},
+			"LAB": {
+				"Votes": 9347300,
+				"Total Votes": 30697500,
+				"Candidates": 631,
+				"Total Candidates": 3971,
+				"Seats": 232,
+				"Total Seats": 650,
+				"Vote Share": 0.304
+			},
+			"LD": {
+				"Votes": 2415900,
+				"Total Votes": 30697500,
+				"Candidates": 631,
+				"Total Candidates": 3971,
+				"Seats": 8,
+				"Total Seats": 650,
+				"Vote Share": 0.079
+			},
+			"PC/SNP": {
+				"Votes": 1636100,
+				"Total Votes": 30697500,
+				"Candidates": 99,
+				"Total Candidates": 3971,
+				"Seats": 59,
+				"Total Seats": 650,
+				"Vote Share": 0.053
+			},
+			"Other": {
+				"Votes": 5998600,
+				"Total Votes": 30697500,
+				"Candidates": 1963,
+				"Total Candidates": 3971,
+				"Seats": 21,
+				"Total Seats": 650,
+				"Vote Share": 0.195
+			}
+		},
+		"2017": {
+			"CON": {
+				"Votes": 13636690,
+				"Total Votes": 32204141,
+				"Candidates": 638,
+				"Total Candidates": 3304,
+				"Seats": 317,
+				"Total Seats": 650,
+				"Vote Share": 0.423
+			},
+			"LAB": {
+				"Votes": 12877869,
+				"Total Votes": 32204141,
+				"Candidates": 631,
+				"Total Candidates": 3304,
+				"Seats": 262,
+				"Total Seats": 650,
+				"Vote Share": 0.4
+			},
+			"LD": {
+				"Votes": 2371861,
+				"Total Votes": 32204141,
+				"Candidates": 629,
+				"Total Candidates": 3304,
+				"Seats": 12,
+				"Total Seats": 650,
+				"Vote Share": 0.074
+			},
+			"PC/SNP": {
+				"Votes": 1142034,
+				"Total Votes": 32204141,
+				"Candidates": 99,
+				"Total Candidates": 3304,
+				"Seats": 39,
+				"Total Seats": 650,
+				"Vote Share": 0.035
+			},
+			"Other": {
+				"Votes": 2175687,
+				"Total Votes": 32204141,
+				"Candidates": 1307,
+				"Total Candidates": 3304,
+				"Seats": 20,
+				"Total Seats": 650,
+				"Vote Share": 0.068
+			}
+		},
+		"2019": {
+			"CON": {
+				"Votes": 13966454,
+				"Total Votes": 32014110,
+				"Candidates": 635,
+				"Total Candidates": 3320,
+				"Seats": 365,
+				"Total Seats": 650,
+				"Vote Share": 0.436
+			},
+			"LAB": {
+				"Votes": 10269051,
+				"Total Votes": 32014110,
+				"Candidates": 631,
+				"Total Candidates": 3320,
+				"Seats": 202,
+				"Total Seats": 650,
+				"Vote Share": 0.321
+			},
+			"LD": {
+				"Votes": 3696419,
+				"Total Votes": 32014110,
+				"Candidates": 611,
+				"Total Candidates": 3320,
+				"Seats": 11,
+				"Total Seats": 650,
+				"Vote Share": 0.115
+			},
+			"PC/SNP": {
+				"Votes": 1395645,
+				"Total Votes": 32014110,
+				"Candidates": 95,
+				"Total Candidates": 3320,
+				"Seats": 52,
+				"Total Seats": 650,
+				"Vote Share": 0.044
+			},
+			"Other": {
+				"Votes": 2686541,
+				"Total Votes": 32014110,
+				"Candidates": 1348,
+				"Total Candidates": 3320,
+				"Seats": 20,
+				"Total Seats": 650,
+				"Vote Share": 0.084
+			}
+		}
+	},
+	"GB": {
+		"1918": {
+			"CON": {
+				"Votes": 3854979,
+				"Total Votes": 9747593,
+				"Candidates": 409,
+				"Total Candidates": 1419,
+				"Seats": 359,
+				"Total Seats": 606,
+				"Vote Share": 0.395
+			},
+			"LAB": {
+				"Votes": 2245777,
+				"Total Votes": 9747593,
+				"Candidates": 361,
+				"Total Candidates": 1419,
+				"Seats": 57,
+				"Total Seats": 606,
+				"Vote Share": 0.23
+			},
+			"LD": {
+				"Votes": 2785374,
+				"Total Votes": 9747593,
+				"Candidates": 421,
+				"Total Candidates": 1419,
+				"Seats": 163,
+				"Total Seats": 606,
+				"Vote Share": 0.286
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 9747593,
+				"Candidates": null,
+				"Total Candidates": 1419,
+				"Seats": null,
+				"Total Seats": 606,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 861463,
+				"Total Votes": 9747593,
+				"Candidates": 228,
+				"Total Candidates": 1419,
+				"Seats": 27,
+				"Total Seats": 606,
+				"Vote Share": 0.09
+			}
+		},
+		"1922": {
+			"CON": {
+				"Votes": 5394326,
+				"Total Votes": 14184444,
+				"Candidates": 470,
+				"Total Candidates": 1426,
+				"Seats": 334,
+				"Total Seats": 603,
+				"Vote Share": 0.38
+			},
+			"LAB": {
+				"Votes": 4237349,
+				"Total Votes": 14184444,
+				"Candidates": 414,
+				"Total Candidates": 1426,
+				"Seats": 142,
+				"Total Seats": 603,
+				"Vote Share": 0.299
+			},
+			"LD": {
+				"Votes": 4139460,
+				"Total Votes": 14184444,
+				"Candidates": 485,
+				"Total Candidates": 1426,
+				"Seats": 115,
+				"Total Seats": 603,
+				"Vote Share": 0.292
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 14184444,
+				"Candidates": null,
+				"Total Candidates": 1426,
+				"Seats": null,
+				"Total Seats": 603,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 413309,
+				"Total Votes": 14184444,
+				"Candidates": 57,
+				"Total Candidates": 1426,
+				"Seats": 12,
+				"Total Seats": 603,
+				"Vote Share": 0.029
+			}
+		},
+		"1923": {
+			"CON": {
+				"Votes": 5397380,
+				"Total Votes": 14305437,
+				"Candidates": 524,
+				"Total Candidates": 1430,
+				"Seats": 248,
+				"Total Seats": 603,
+				"Vote Share": 0.377
+			},
+			"LAB": {
+				"Votes": 4439780,
+				"Total Votes": 14305437,
+				"Candidates": 427,
+				"Total Candidates": 1430,
+				"Seats": 191,
+				"Total Seats": 603,
+				"Vote Share": 0.31
+			},
+			"LD": {
+				"Votes": 4301481,
+				"Total Votes": 14305437,
+				"Candidates": 457,
+				"Total Candidates": 1430,
+				"Seats": 158,
+				"Total Seats": 603,
+				"Vote Share": 0.301
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 14305437,
+				"Candidates": null,
+				"Total Candidates": 1430,
+				"Seats": null,
+				"Total Seats": 603,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 166796,
+				"Total Votes": 14305437,
+				"Candidates": 22,
+				"Total Candidates": 1430,
+				"Seats": 6,
+				"Total Seats": 603,
+				"Vote Share": 0.012
+			}
+		},
+		"1924": {
+			"CON": {
+				"Votes": 7403245,
+				"Total Votes": 16120905,
+				"Candidates": 522,
+				"Total Candidates": 1406,
+				"Seats": 400,
+				"Total Seats": 603,
+				"Vote Share": 0.459
+			},
+			"LAB": {
+				"Votes": 5489087,
+				"Total Votes": 16120905,
+				"Candidates": 514,
+				"Total Candidates": 1406,
+				"Seats": 151,
+				"Total Seats": 603,
+				"Vote Share": 0.34
+			},
+			"LD": {
+				"Votes": 2928737,
+				"Total Votes": 16120905,
+				"Candidates": 339,
+				"Total Candidates": 1406,
+				"Seats": 40,
+				"Total Seats": 603,
+				"Vote Share": 0.182
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 16120905,
+				"Candidates": null,
+				"Total Candidates": 1406,
+				"Seats": null,
+				"Total Seats": 603,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 299836,
+				"Total Votes": 16120905,
+				"Candidates": 31,
+				"Total Candidates": 1406,
+				"Seats": 12,
+				"Total Seats": 603,
+				"Vote Share": 0.019
+			}
+		},
+		"1929": {
+			"CON": {
+				"Votes": 8301568,
+				"Total Votes": 22138322,
+				"Candidates": 580,
+				"Total Candidates": 1708,
+				"Seats": 250,
+				"Total Seats": 603,
+				"Vote Share": 0.375
+			},
+			"LAB": {
+				"Votes": 8370417,
+				"Total Votes": 22138322,
+				"Candidates": 569,
+				"Total Candidates": 1708,
+				"Seats": 287,
+				"Total Seats": 603,
+				"Vote Share": 0.378
+			},
+			"LD": {
+				"Votes": 5208635,
+				"Total Votes": 22138322,
+				"Candidates": 507,
+				"Total Candidates": 1708,
+				"Seats": 59,
+				"Total Seats": 603,
+				"Vote Share": 0.235
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 22138322,
+				"Candidates": 3,
+				"Total Candidates": 1708,
+				"Seats": 0,
+				"Total Seats": 603,
+				"Vote Share": 0.0
+			},
+			"Other": {
+				"Votes": 253780,
+				"Total Votes": 22138322,
+				"Candidates": 49,
+				"Total Candidates": 1708,
+				"Seats": 7,
+				"Total Seats": 603,
+				"Vote Share": 0.012
+			}
+		},
+		"1931": {
+			"CON": {
+				"Votes": 13007224,
+				"Total Votes": 21374344,
+				"Candidates": 571,
+				"Total Candidates": 1276,
+				"Seats": 512,
+				"Total Seats": 603,
+				"Vote Share": 0.609
+			},
+			"LAB": {
+				"Votes": 6640220,
+				"Total Votes": 21374344,
+				"Candidates": 515,
+				"Total Candidates": 1276,
+				"Seats": 52,
+				"Total Seats": 603,
+				"Vote Share": 0.311
+			},
+			"LD": {
+				"Votes": 1476123,
+				"Total Votes": 21374344,
+				"Candidates": 117,
+				"Total Candidates": 1276,
+				"Seats": 36,
+				"Total Seats": 603,
+				"Vote Share": 0.069
+			},
+			"PC/SNP": {
+				"Votes": 23004,
+				"Total Votes": 21374344,
+				"Candidates": 7,
+				"Total Candidates": 1276,
+				"Seats": 0,
+				"Total Seats": 603,
+				"Vote Share": 0.001
+			},
+			"Other": {
+				"Votes": 227773,
+				"Total Votes": 21374344,
+				"Candidates": 66,
+				"Total Candidates": 1276,
+				"Seats": 3,
+				"Total Seats": 603,
+				"Vote Share": 0.01
+			}
+		},
+		"1935": {
+			"CON": {
+				"Votes": 11462814,
+				"Total Votes": 21545887,
+				"Candidates": 571,
+				"Total Candidates": 1331,
+				"Seats": 419,
+				"Total Seats": 603,
+				"Vote Share": 0.532
+			},
+			"LAB": {
+				"Votes": 8325491,
+				"Total Votes": 21545887,
+				"Candidates": 552,
+				"Total Candidates": 1331,
+				"Seats": 154,
+				"Total Seats": 603,
+				"Vote Share": 0.386
+			},
+			"LD": {
+				"Votes": 1443093,
+				"Total Votes": 21545887,
+				"Candidates": 161,
+				"Total Candidates": 1331,
+				"Seats": 21,
+				"Total Seats": 603,
+				"Vote Share": 0.067
+			},
+			"PC/SNP": {
+				"Votes": 32051,
+				"Total Votes": 21545887,
+				"Candidates": 9,
+				"Total Candidates": 1331,
+				"Seats": 0,
+				"Total Seats": 603,
+				"Vote Share": 0.001
+			},
+			"Other": {
+				"Votes": 282438,
+				"Total Votes": 21545887,
+				"Candidates": 38,
+				"Total Candidates": 1331,
+				"Seats": 9,
+				"Total Seats": 603,
+				"Vote Share": 0.014
+			}
+		},
+		"1945": {
+			"CON": {
+				"Votes": 9579560,
+				"Total Votes": 24375430,
+				"Candidates": 606,
+				"Total Candidates": 1659,
+				"Seats": 202,
+				"Total Seats": 628,
+				"Vote Share": 0.393
+			},
+			"LAB": {
+				"Votes": 11902287,
+				"Total Votes": 24375430,
+				"Candidates": 598,
+				"Total Candidates": 1659,
+				"Seats": 393,
+				"Total Seats": 628,
+				"Vote Share": 0.488
+			},
+			"LD": {
+				"Votes": 2252430,
+				"Total Votes": 24375430,
+				"Candidates": 306,
+				"Total Candidates": 1659,
+				"Seats": 12,
+				"Total Seats": 628,
+				"Vote Share": 0.092
+			},
+			"PC/SNP": {
+				"Votes": 46612,
+				"Total Votes": 24375430,
+				"Candidates": 15,
+				"Total Candidates": 1659,
+				"Seats": 0,
+				"Total Seats": 628,
+				"Vote Share": 0.002
+			},
+			"Other": {
+				"Votes": 594541,
+				"Total Votes": 24375430,
+				"Candidates": 134,
+				"Total Candidates": 1659,
+				"Seats": 21,
+				"Total Seats": 628,
+				"Vote Share": 0.024
+			}
+		},
+		"1950": {
+			"CON": {
+				"Votes": 12140070,
+				"Total Votes": 28209686,
+				"Candidates": 607,
+				"Total Candidates": 1845,
+				"Seats": 288,
+				"Total Seats": 613,
+				"Vote Share": 0.43
+			},
+			"LAB": {
+				"Votes": 13198360,
+				"Total Votes": 28209686,
+				"Candidates": 612,
+				"Total Candidates": 1845,
+				"Seats": 315,
+				"Total Seats": 613,
+				"Vote Share": 0.468
+			},
+			"LD": {
+				"Votes": 2621487,
+				"Total Votes": 28209686,
+				"Candidates": 475,
+				"Total Candidates": 1845,
+				"Seats": 9,
+				"Total Seats": 613,
+				"Vote Share": 0.093
+			},
+			"PC/SNP": {
+				"Votes": 27288,
+				"Total Votes": 28209686,
+				"Candidates": 10,
+				"Total Candidates": 1845,
+				"Seats": 0,
+				"Total Seats": 613,
+				"Vote Share": 0.001
+			},
+			"Other": {
+				"Votes": 222481,
+				"Total Votes": 28209686,
+				"Candidates": 141,
+				"Total Candidates": 1845,
+				"Seats": 1,
+				"Total Seats": 613,
+				"Vote Share": 0.008
+			}
+		},
+		"1951": {
+			"CON": {
+				"Votes": 13443271,
+				"Total Votes": 28133381,
+				"Candidates": 605,
+				"Total Candidates": 1356,
+				"Seats": 312,
+				"Total Seats": 613,
+				"Vote Share": 0.478
+			},
+			"LAB": {
+				"Votes": 13886559,
+				"Total Votes": 28133381,
+				"Candidates": 613,
+				"Total Candidates": 1356,
+				"Seats": 295,
+				"Total Seats": 613,
+				"Vote Share": 0.494
+			},
+			"LD": {
+				"Votes": 730546,
+				"Total Votes": 28133381,
+				"Candidates": 109,
+				"Total Candidates": 1356,
+				"Seats": 6,
+				"Total Seats": 613,
+				"Vote Share": 0.026
+			},
+			"PC/SNP": {
+				"Votes": 18219,
+				"Total Votes": 28133381,
+				"Candidates": 6,
+				"Total Candidates": 1356,
+				"Seats": 0,
+				"Total Seats": 613,
+				"Vote Share": 0.001
+			},
+			"Other": {
+				"Votes": 54786,
+				"Total Votes": 28133381,
+				"Candidates": 23,
+				"Total Candidates": 1356,
+				"Seats": 0,
+				"Total Seats": 613,
+				"Vote Share": 0.002
+			}
+		},
+		"1955": {
+			"CON": {
+				"Votes": 12868244,
+				"Total Votes": 26113108,
+				"Candidates": 612,
+				"Total Candidates": 1381,
+				"Seats": 335,
+				"Total Seats": 618,
+				"Vote Share": 0.493
+			},
+			"LAB": {
+				"Votes": 12369640,
+				"Total Votes": 26113108,
+				"Candidates": 617,
+				"Total Candidates": 1381,
+				"Seats": 277,
+				"Total Seats": 618,
+				"Vote Share": 0.474
+			},
+			"LD": {
+				"Votes": 722402,
+				"Total Votes": 26113108,
+				"Candidates": 110,
+				"Total Candidates": 1381,
+				"Seats": 6,
+				"Total Seats": 618,
+				"Vote Share": 0.028
+			},
+			"PC/SNP": {
+				"Votes": 57231,
+				"Total Votes": 26113108,
+				"Candidates": 13,
+				"Total Candidates": 1381,
+				"Seats": 0,
+				"Total Seats": 618,
+				"Vote Share": 0.002
+			},
+			"Other": {
+				"Votes": 95591,
+				"Total Votes": 26113108,
+				"Candidates": 29,
+				"Total Candidates": 1381,
+				"Seats": 0,
+				"Total Seats": 618,
+				"Vote Share": 0.004
+			}
+		},
+		"1959": {
+			"CON": {
+				"Votes": 13305862,
+				"Total Votes": 27286539,
+				"Candidates": 613,
+				"Total Candidates": 1507,
+				"Seats": 353,
+				"Total Seats": 618,
+				"Vote Share": 0.488
+			},
+			"LAB": {
+				"Votes": 12171802,
+				"Total Votes": 27286539,
+				"Candidates": 618,
+				"Total Candidates": 1507,
+				"Seats": 258,
+				"Total Seats": 618,
+				"Vote Share": 0.446
+			},
+			"LD": {
+				"Votes": 1637507,
+				"Total Votes": 27286539,
+				"Candidates": 215,
+				"Total Candidates": 1507,
+				"Seats": 6,
+				"Total Seats": 618,
+				"Vote Share": 0.06
+			},
+			"PC/SNP": {
+				"Votes": 99309,
+				"Total Votes": 27286539,
+				"Candidates": 25,
+				"Total Candidates": 1507,
+				"Seats": 0,
+				"Total Seats": 618,
+				"Vote Share": 0.004
+			},
+			"Other": {
+				"Votes": 72059,
+				"Total Votes": 27286539,
+				"Candidates": 36,
+				"Total Candidates": 1507,
+				"Seats": 1,
+				"Total Seats": 618,
+				"Vote Share": 0.003
+			}
+		},
+		"1964": {
+			"CON": {
+				"Votes": 11600745,
+				"Total Votes": 27018832,
+				"Candidates": 618,
+				"Total Candidates": 1718,
+				"Seats": 292,
+				"Total Seats": 618,
+				"Vote Share": 0.429
+			},
+			"LAB": {
+				"Votes": 12103049,
+				"Total Votes": 27018832,
+				"Candidates": 618,
+				"Total Candidates": 1718,
+				"Seats": 317,
+				"Total Seats": 618,
+				"Vote Share": 0.448
+			},
+			"LD": {
+				"Votes": 3081929,
+				"Total Votes": 27018832,
+				"Candidates": 361,
+				"Total Candidates": 1718,
+				"Seats": 9,
+				"Total Seats": 618,
+				"Vote Share": 0.114
+			},
+			"PC/SNP": {
+				"Votes": 133551,
+				"Total Votes": 27018832,
+				"Candidates": 38,
+				"Total Candidates": 1718,
+				"Seats": 0,
+				"Total Seats": 618,
+				"Vote Share": 0.005
+			},
+			"Other": {
+				"Votes": 99558,
+				"Total Votes": 27018832,
+				"Candidates": 83,
+				"Total Candidates": 1718,
+				"Seats": 0,
+				"Total Seats": 618,
+				"Vote Share": 0.004
+			}
+		},
+		"1966": {
+			"CON": {
+				"Votes": 11049826,
+				"Total Votes": 26668510,
+				"Candidates": 617,
+				"Total Candidates": 1680,
+				"Seats": 242,
+				"Total Seats": 618,
+				"Vote Share": 0.414
+			},
+			"LAB": {
+				"Votes": 13024016,
+				"Total Votes": 26668510,
+				"Candidates": 618,
+				"Total Candidates": 1680,
+				"Seats": 364,
+				"Total Seats": 618,
+				"Vote Share": 0.488
+			},
+			"LD": {
+				"Votes": 2298348,
+				"Total Votes": 26668510,
+				"Candidates": 308,
+				"Total Candidates": 1680,
+				"Seats": 12,
+				"Total Seats": 618,
+				"Vote Share": 0.086
+			},
+			"PC/SNP": {
+				"Votes": 189545,
+				"Total Votes": 26668510,
+				"Candidates": 43,
+				"Total Candidates": 1680,
+				"Seats": 0,
+				"Total Seats": 618,
+				"Vote Share": 0.007
+			},
+			"Other": {
+				"Votes": 106775,
+				"Total Votes": 26668510,
+				"Candidates": 94,
+				"Total Candidates": 1680,
+				"Seats": 0,
+				"Total Seats": 618,
+				"Vote Share": 0.004
+			}
+		},
+		"1970": {
+			"CON": {
+				"Votes": 12723082,
+				"Total Votes": 27565685,
+				"Candidates": 616,
+				"Total Candidates": 1797,
+				"Seats": 322,
+				"Total Seats": 618,
+				"Vote Share": 0.462
+			},
+			"LAB": {
+				"Votes": 12110564,
+				"Total Votes": 27565685,
+				"Candidates": 618,
+				"Total Candidates": 1797,
+				"Seats": 288,
+				"Total Seats": 618,
+				"Vote Share": 0.439
+			},
+			"LD": {
+				"Votes": 2105030,
+				"Total Votes": 27565685,
+				"Candidates": 328,
+				"Total Candidates": 1797,
+				"Seats": 6,
+				"Total Seats": 618,
+				"Vote Share": 0.076
+			},
+			"PC/SNP": {
+				"Votes": 481818,
+				"Total Votes": 27565685,
+				"Candidates": 101,
+				"Total Candidates": 1797,
+				"Seats": 1,
+				"Total Seats": 618,
+				"Vote Share": 0.017
+			},
+			"Other": {
+				"Votes": 145191,
+				"Total Votes": 27565685,
+				"Candidates": 134,
+				"Total Candidates": 1797,
+				"Seats": 1,
+				"Total Seats": 618,
+				"Vote Share": 0.005
+			}
+		},
+		"1974F": {
+			"CON": {
+				"Votes": 11872180,
+				"Total Votes": 30622536,
+				"Candidates": 623,
+				"Total Candidates": 2087,
+				"Seats": 297,
+				"Total Seats": 623,
+				"Vote Share": 0.388
+			},
+			"LAB": {
+				"Votes": 11645616,
+				"Total Votes": 30622536,
+				"Candidates": 623,
+				"Total Candidates": 2087,
+				"Seats": 301,
+				"Total Seats": 623,
+				"Vote Share": 0.38
+			},
+			"LD": {
+				"Votes": 6059519,
+				"Total Votes": 30622536,
+				"Candidates": 517,
+				"Total Candidates": 2087,
+				"Seats": 14,
+				"Total Seats": 623,
+				"Vote Share": 0.198
+			},
+			"PC/SNP": {
+				"Votes": 804554,
+				"Total Votes": 30622536,
+				"Candidates": 106,
+				"Total Candidates": 2087,
+				"Seats": 9,
+				"Total Seats": 623,
+				"Vote Share": 0.026
+			},
+			"Other": {
+				"Votes": 240667,
+				"Total Votes": 30622536,
+				"Candidates": 218,
+				"Total Candidates": 2087,
+				"Seats": 2,
+				"Total Seats": 623,
+				"Vote Share": 0.008
+			}
+		},
+		"1974O": {
+			"CON": {
+				"Votes": 10462565,
+				"Total Votes": 28487010,
+				"Candidates": 622,
+				"Total Candidates": 2209,
+				"Seats": 277,
+				"Total Seats": 623,
+				"Vote Share": 0.367
+			},
+			"LAB": {
+				"Votes": 11457079,
+				"Total Votes": 28487010,
+				"Candidates": 623,
+				"Total Candidates": 2209,
+				"Seats": 319,
+				"Total Seats": 623,
+				"Vote Share": 0.402
+			},
+			"LD": {
+				"Votes": 5346704,
+				"Total Votes": 28487010,
+				"Candidates": 619,
+				"Total Candidates": 2209,
+				"Seats": 13,
+				"Total Seats": 623,
+				"Vote Share": 0.188
+			},
+			"PC/SNP": {
+				"Votes": 1005938,
+				"Total Votes": 28487010,
+				"Candidates": 107,
+				"Total Candidates": 2209,
+				"Seats": 14,
+				"Total Seats": 623,
+				"Vote Share": 0.035
+			},
+			"Other": {
+				"Votes": 214724,
+				"Total Votes": 28487010,
+				"Candidates": 238,
+				"Total Candidates": 2209,
+				"Seats": 0,
+				"Total Seats": 623,
+				"Vote Share": 0.008
+			}
+		},
+		"1979": {
+			"CON": {
+				"Votes": 13697923,
+				"Total Votes": 30525475,
+				"Candidates": 622,
+				"Total Candidates": 2512,
+				"Seats": 339,
+				"Total Seats": 623,
+				"Vote Share": 0.449
+			},
+			"LAB": {
+				"Votes": 11532218,
+				"Total Votes": 30525475,
+				"Candidates": 623,
+				"Total Candidates": 2512,
+				"Seats": 269,
+				"Total Seats": 623,
+				"Vote Share": 0.378
+			},
+			"LD": {
+				"Votes": 4313804,
+				"Total Votes": 30525475,
+				"Candidates": 577,
+				"Total Candidates": 2512,
+				"Seats": 11,
+				"Total Seats": 623,
+				"Vote Share": 0.141
+			},
+			"PC/SNP": {
+				"Votes": 636803,
+				"Total Votes": 30525475,
+				"Candidates": 107,
+				"Total Candidates": 2512,
+				"Seats": 4,
+				"Total Seats": 623,
+				"Vote Share": 0.021
+			},
+			"Other": {
+				"Votes": 344727,
+				"Total Votes": 30525475,
+				"Candidates": 583,
+				"Total Candidates": 2512,
+				"Seats": 0,
+				"Total Seats": 623,
+				"Vote Share": 0.011
+			}
+		},
+		"1983": {
+			"CON": {
+				"Votes": 13012316,
+				"Total Votes": 29906212,
+				"Candidates": 633,
+				"Total Candidates": 2483,
+				"Seats": 397,
+				"Total Seats": 633,
+				"Vote Share": 0.435
+			},
+			"LAB": {
+				"Votes": 8456934,
+				"Total Votes": 29906212,
+				"Candidates": 633,
+				"Total Candidates": 2483,
+				"Seats": 209,
+				"Total Seats": 633,
+				"Vote Share": 0.283
+			},
+			"LD": {
+				"Votes": 7780949,
+				"Total Votes": 29906212,
+				"Candidates": 633,
+				"Total Candidates": 2483,
+				"Seats": 23,
+				"Total Seats": 633,
+				"Vote Share": 0.26
+			},
+			"PC/SNP": {
+				"Votes": 457284,
+				"Total Votes": 29906212,
+				"Candidates": 110,
+				"Total Candidates": 2483,
+				"Seats": 4,
+				"Total Seats": 633,
+				"Vote Share": 0.015
+			},
+			"Other": {
+				"Votes": 198729,
+				"Total Votes": 29906212,
+				"Candidates": 474,
+				"Total Candidates": 2483,
+				"Seats": 0,
+				"Total Seats": 633,
+				"Vote Share": 0.007
+			}
+		},
+		"1987": {
+			"CON": {
+				"Votes": 13760583,
+				"Total Votes": 31799426,
+				"Candidates": 633,
+				"Total Candidates": 2248,
+				"Seats": 376,
+				"Total Seats": 633,
+				"Vote Share": 0.433
+			},
+			"LAB": {
+				"Votes": 10029807,
+				"Total Votes": 31799426,
+				"Candidates": 633,
+				"Total Candidates": 2248,
+				"Seats": 229,
+				"Total Seats": 633,
+				"Vote Share": 0.315
+			},
+			"LD": {
+				"Votes": 7341633,
+				"Total Votes": 31799426,
+				"Candidates": 633,
+				"Total Candidates": 2248,
+				"Seats": 22,
+				"Total Seats": 633,
+				"Vote Share": 0.231
+			},
+			"PC/SNP": {
+				"Votes": 540072,
+				"Total Votes": 31799426,
+				"Candidates": 109,
+				"Total Candidates": 2248,
+				"Seats": 6,
+				"Total Seats": 633,
+				"Vote Share": 0.017
+			},
+			"Other": {
+				"Votes": 127331,
+				"Total Votes": 31799426,
+				"Candidates": 240,
+				"Total Candidates": 2248,
+				"Seats": 0,
+				"Total Seats": 633,
+				"Vote Share": 0.004
+			}
+		},
+		"1992": {
+			"CON": {
+				"Votes": 14048399,
+				"Total Votes": 32828981,
+				"Candidates": 634,
+				"Total Candidates": 2849,
+				"Seats": 336,
+				"Total Seats": 634,
+				"Vote Share": 0.428
+			},
+			"LAB": {
+				"Votes": 11560484,
+				"Total Votes": 32828981,
+				"Candidates": 634,
+				"Total Candidates": 2849,
+				"Seats": 271,
+				"Total Seats": 634,
+				"Vote Share": 0.352
+			},
+			"LD": {
+				"Votes": 5999606,
+				"Total Votes": 32828981,
+				"Candidates": 632,
+				"Total Candidates": 2849,
+				"Seats": 20,
+				"Total Seats": 634,
+				"Vote Share": 0.183
+			},
+			"PC/SNP": {
+				"Votes": 784511,
+				"Total Votes": 32828981,
+				"Candidates": 107,
+				"Total Candidates": 2849,
+				"Seats": 7,
+				"Total Seats": 634,
+				"Vote Share": 0.024
+			},
+			"Other": {
+				"Votes": 435981,
+				"Total Votes": 32828981,
+				"Candidates": 842,
+				"Total Candidates": 2849,
+				"Seats": 0,
+				"Total Seats": 634,
+				"Vote Share": 0.013
+			}
+		},
+		"1997": {
+			"CON": {
+				"Votes": 9591085,
+				"Total Votes": 30495522,
+				"Candidates": 640,
+				"Total Candidates": 3599,
+				"Seats": 165,
+				"Total Seats": 641,
+				"Vote Share": 0.315
+			},
+			"LAB": {
+				"Votes": 13518167,
+				"Total Votes": 30495522,
+				"Candidates": 639,
+				"Total Candidates": 3599,
+				"Seats": 418,
+				"Total Seats": 641,
+				"Vote Share": 0.443
+			},
+			"LD": {
+				"Votes": 5242947,
+				"Total Votes": 30495522,
+				"Candidates": 639,
+				"Total Candidates": 3599,
+				"Seats": 46,
+				"Total Seats": 641,
+				"Vote Share": 0.172
+			},
+			"PC/SNP": {
+				"Votes": 782580,
+				"Total Votes": 30495522,
+				"Candidates": 112,
+				"Total Candidates": 3599,
+				"Seats": 10,
+				"Total Seats": 641,
+				"Vote Share": 0.026
+			},
+			"Other": {
+				"Votes": 1360743,
+				"Total Votes": 30495522,
+				"Candidates": 1569,
+				"Total Candidates": 3599,
+				"Seats": 2,
+				"Total Seats": 641,
+				"Vote Share": 0.045
+			}
+		},
+		"2001": {
+			"CON": {
+				"Votes": 8335193,
+				"Total Votes": 25557009,
+				"Candidates": 640,
+				"Total Candidates": 3219,
+				"Seats": 166,
+				"Total Seats": 641,
+				"Vote Share": 0.326
+			},
+			"LAB": {
+				"Votes": 10724953,
+				"Total Votes": 25557009,
+				"Candidates": 640,
+				"Total Candidates": 3219,
+				"Seats": 412,
+				"Total Seats": 641,
+				"Vote Share": 0.42
+			},
+			"LD": {
+				"Votes": 4814321,
+				"Total Votes": 25557009,
+				"Candidates": 639,
+				"Total Candidates": 3219,
+				"Seats": 52,
+				"Total Seats": 641,
+				"Vote Share": 0.188
+			},
+			"PC/SNP": {
+				"Votes": 660207,
+				"Total Votes": 25557009,
+				"Candidates": 112,
+				"Total Candidates": 3219,
+				"Seats": 9,
+				"Total Seats": 641,
+				"Vote Share": 0.026
+			},
+			"Other": {
+				"Votes": 1022335,
+				"Total Votes": 25557009,
+				"Candidates": 1188,
+				"Total Candidates": 3219,
+				"Seats": 2,
+				"Total Seats": 641,
+				"Vote Share": 0.04
+			}
+		},
+		"2005": {
+			"CON": {
+				"Votes": 8782197,
+				"Total Votes": 26430908,
+				"Candidates": 627,
+				"Total Candidates": 3449,
+				"Seats": 198,
+				"Total Seats": 628,
+				"Vote Share": 0.332
+			},
+			"LAB": {
+				"Votes": 9552436,
+				"Total Votes": 26430908,
+				"Candidates": 627,
+				"Total Candidates": 3449,
+				"Seats": 355,
+				"Total Seats": 628,
+				"Vote Share": 0.361
+			},
+			"LD": {
+				"Votes": 5985454,
+				"Total Votes": 26430908,
+				"Candidates": 626,
+				"Total Candidates": 3449,
+				"Seats": 62,
+				"Total Seats": 628,
+				"Vote Share": 0.226
+			},
+			"PC/SNP": {
+				"Votes": 587105,
+				"Total Votes": 26430908,
+				"Candidates": 99,
+				"Total Candidates": 3449,
+				"Seats": 9,
+				"Total Seats": 628,
+				"Vote Share": 0.022
+			},
+			"Other": {
+				"Votes": 1523716,
+				"Total Votes": 26430908,
+				"Candidates": 1470,
+				"Total Candidates": 3449,
+				"Seats": 4,
+				"Total Seats": 628,
+				"Vote Share": 0.058
+			}
+		},
+		"2010": {
+			"CON": {
+				"Votes": 10703654,
+				"Total Votes": 29013733,
+				"Candidates": 631,
+				"Total Candidates": 4042,
+				"Seats": 306,
+				"Total Seats": 632,
+				"Vote Share": 0.369
+			},
+			"LAB": {
+				"Votes": 8606517,
+				"Total Votes": 29013733,
+				"Candidates": 631,
+				"Total Candidates": 4042,
+				"Seats": 258,
+				"Total Seats": 632,
+				"Vote Share": 0.297
+			},
+			"LD": {
+				"Votes": 6836248,
+				"Total Votes": 29013733,
+				"Candidates": 631,
+				"Total Candidates": 4042,
+				"Seats": 57,
+				"Total Seats": 632,
+				"Vote Share": 0.236
+			},
+			"PC/SNP": {
+				"Votes": 656780,
+				"Total Votes": 29013733,
+				"Candidates": 99,
+				"Total Candidates": 4042,
+				"Seats": 9,
+				"Total Seats": 632,
+				"Vote Share": 0.023
+			},
+			"Other": {
+				"Votes": 2210534,
+				"Total Votes": 29013733,
+				"Candidates": 2050,
+				"Total Candidates": 4042,
+				"Seats": 2,
+				"Total Seats": 632,
+				"Vote Share": 0.076
+			}
+		},
+		"2015": {
+			"CON": {
+				"Votes": 11290600,
+				"Total Votes": 29982100,
+				"Candidates": 631,
+				"Total Candidates": 3833,
+				"Seats": 330,
+				"Total Seats": 632,
+				"Vote Share": 0.377
+			},
+			"LAB": {
+				"Votes": 9347300,
+				"Total Votes": 29982100,
+				"Candidates": 631,
+				"Total Candidates": 3833,
+				"Seats": 232,
+				"Total Seats": 632,
+				"Vote Share": 0.312
+			},
+			"LD": {
+				"Votes": 2415900,
+				"Total Votes": 29982100,
+				"Candidates": 631,
+				"Total Candidates": 3833,
+				"Seats": 8,
+				"Total Seats": 632,
+				"Vote Share": 0.081
+			},
+			"PC/SNP": {
+				"Votes": 1635700,
+				"Total Votes": 29982100,
+				"Candidates": 99,
+				"Total Candidates": 3833,
+				"Seats": 59,
+				"Total Seats": 632,
+				"Vote Share": 0.055
+			},
+			"Other": {
+				"Votes": 5292600,
+				"Total Votes": 29982100,
+				"Candidates": 1841,
+				"Total Candidates": 3833,
+				"Seats": 3,
+				"Total Seats": 632,
+				"Vote Share": 0.177
+			}
+		},
+		"2017": {
+			"CON": {
+				"Votes": 13632800,
+				"Total Votes": 31391100,
+				"Candidates": 631,
+				"Total Candidates": 3195,
+				"Seats": 317,
+				"Total Seats": 632,
+				"Vote Share": 0.434
+			},
+			"LAB": {
+				"Votes": 12877900,
+				"Total Votes": 31391100,
+				"Candidates": 631,
+				"Total Candidates": 3195,
+				"Seats": 262,
+				"Total Seats": 632,
+				"Vote Share": 0.41
+			},
+			"LD": {
+				"Votes": 2371000,
+				"Total Votes": 31391100,
+				"Candidates": 629,
+				"Total Candidates": 3195,
+				"Seats": 12,
+				"Total Seats": 632,
+				"Vote Share": 0.076
+			},
+			"PC/SNP": {
+				"Votes": 1142000,
+				"Total Votes": 31391100,
+				"Candidates": 99,
+				"Total Candidates": 3195,
+				"Seats": 39,
+				"Total Seats": 632,
+				"Vote Share": 0.036
+			},
+			"Other": {
+				"Votes": 1367400,
+				"Total Votes": 31391100,
+				"Candidates": 1205,
+				"Total Candidates": 3195,
+				"Seats": 2,
+				"Total Seats": 632,
+				"Vote Share": 0.044
+			}
+		},
+		"2019": {
+			"CON": {
+				"Votes": 13961021,
+				"Total Votes": 31215075,
+				"Candidates": 631,
+				"Total Candidates": 3218,
+				"Seats": 365,
+				"Total Seats": 632,
+				"Vote Share": 0.447
+			},
+			"LAB": {
+				"Votes": 10269051,
+				"Total Votes": 31215075,
+				"Candidates": 631,
+				"Total Candidates": 3218,
+				"Seats": 202,
+				"Total Seats": 632,
+				"Vote Share": 0.329
+			},
+			"LD": {
+				"Votes": 3696419,
+				"Total Votes": 31215075,
+				"Candidates": 611,
+				"Total Candidates": 3218,
+				"Seats": 11,
+				"Total Seats": 632,
+				"Vote Share": 0.118
+			},
+			"PC/SNP": {
+				"Votes": 1395645,
+				"Total Votes": 31215075,
+				"Candidates": 95,
+				"Total Candidates": 3218,
+				"Seats": 52,
+				"Total Seats": 632,
+				"Vote Share": 0.045
+			},
+			"Other": {
+				"Votes": 1892939,
+				"Total Votes": 31215075,
+				"Candidates": 1250,
+				"Total Candidates": 3218,
+				"Seats": 2,
+				"Total Seats": 632,
+				"Vote Share": 0.061
+			}
+		}
+	},
+	"E": {
+		"1918": {
+			"CON": {
+				"Votes": 3414631,
+				"Total Votes": 8050878,
+				"Candidates": 352,
+				"Total Candidates": 1151,
+				"Seats": 315,
+				"Total Seats": 485,
+				"Vote Share": 0.426
+			},
+			"LAB": {
+				"Votes": 1811739,
+				"Total Votes": 8050878,
+				"Candidates": 291,
+				"Total Candidates": 1151,
+				"Seats": 42,
+				"Total Seats": 485,
+				"Vote Share": 0.226
+			},
+			"LD": {
+				"Votes": 2135571,
+				"Total Votes": 8050878,
+				"Candidates": 327,
+				"Total Candidates": 1151,
+				"Seats": 107,
+				"Total Seats": 485,
+				"Vote Share": 0.263
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 8050878,
+				"Candidates": null,
+				"Total Candidates": 1151,
+				"Seats": null,
+				"Total Seats": 485,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 688937,
+				"Total Votes": 8050878,
+				"Candidates": 181,
+				"Total Candidates": 1151,
+				"Seats": 21,
+				"Total Seats": 485,
+				"Vote Share": 0.085
+			}
+		},
+		"1922": {
+			"CON": {
+				"Votes": 4809797,
+				"Total Votes": 11696430,
+				"Candidates": 406,
+				"Total Candidates": 1156,
+				"Seats": 307,
+				"Total Seats": 485,
+				"Vote Share": 0.415
+			},
+			"LAB": {
+				"Votes": 3370430,
+				"Total Votes": 11696430,
+				"Candidates": 340,
+				"Total Candidates": 1156,
+				"Seats": 95,
+				"Total Seats": 485,
+				"Vote Share": 0.288
+			},
+			"LD": {
+				"Votes": 3210938,
+				"Total Votes": 11696430,
+				"Candidates": 368,
+				"Total Candidates": 1156,
+				"Seats": 75,
+				"Total Seats": 485,
+				"Vote Share": 0.272
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 11696430,
+				"Candidates": null,
+				"Total Candidates": 1156,
+				"Seats": null,
+				"Total Seats": 485,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 305265,
+				"Total Votes": 11696430,
+				"Candidates": 42,
+				"Total Candidates": 1156,
+				"Seats": 8,
+				"Total Seats": 485,
+				"Vote Share": 0.025
+			}
+		},
+		"1923": {
+			"CON": {
+				"Votes": 4732176,
+				"Total Votes": 11927085,
+				"Candidates": 444,
+				"Total Candidates": 1166,
+				"Seats": 221,
+				"Total Seats": 485,
+				"Vote Share": 0.398
+			},
+			"LAB": {
+				"Votes": 3549888,
+				"Total Votes": 11927085,
+				"Candidates": 350,
+				"Total Candidates": 1166,
+				"Seats": 138,
+				"Total Seats": 485,
+				"Vote Share": 0.297
+			},
+			"LD": {
+				"Votes": 3572335,
+				"Total Votes": 11927085,
+				"Candidates": 362,
+				"Total Candidates": 1166,
+				"Seats": 123,
+				"Total Seats": 485,
+				"Vote Share": 0.299
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 11927085,
+				"Candidates": null,
+				"Total Candidates": 1166,
+				"Seats": null,
+				"Total Seats": 485,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 72686,
+				"Total Votes": 11927085,
+				"Candidates": 10,
+				"Total Candidates": 1166,
+				"Seats": 3,
+				"Total Seats": 485,
+				"Vote Share": 0.006
+			}
+		},
+		"1924": {
+			"CON": {
+				"Votes": 6460266,
+				"Total Votes": 13561558,
+				"Candidates": 440,
+				"Total Candidates": 1159,
+				"Seats": 347,
+				"Total Seats": 485,
+				"Vote Share": 0.477
+			},
+			"LAB": {
+				"Votes": 4467236,
+				"Total Votes": 13561558,
+				"Candidates": 414,
+				"Total Candidates": 1159,
+				"Seats": 109,
+				"Total Seats": 485,
+				"Vote Share": 0.328
+			},
+			"LD": {
+				"Votes": 2388429,
+				"Total Votes": 13561558,
+				"Candidates": 280,
+				"Total Candidates": 1159,
+				"Seats": 19,
+				"Total Seats": 485,
+				"Vote Share": 0.176
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 13561558,
+				"Candidates": null,
+				"Total Candidates": 1159,
+				"Seats": null,
+				"Total Seats": 485,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 245627,
+				"Total Votes": 13561558,
+				"Candidates": 25,
+				"Total Candidates": 1159,
+				"Seats": 10,
+				"Total Seats": 485,
+				"Vote Share": 0.019
+			}
+		},
+		"1929": {
+			"CON": {
+				"Votes": 7177551,
+				"Total Votes": 18502245,
+				"Candidates": 469,
+				"Total Candidates": 1388,
+				"Seats": 221,
+				"Total Seats": 485,
+				"Vote Share": 0.388
+			},
+			"LAB": {
+				"Votes": 6850738,
+				"Total Votes": 18502245,
+				"Candidates": 467,
+				"Total Candidates": 1388,
+				"Seats": 226,
+				"Total Seats": 485,
+				"Vote Share": 0.369
+			},
+			"LD": {
+				"Votes": 4340703,
+				"Total Votes": 18502245,
+				"Candidates": 422,
+				"Total Candidates": 1388,
+				"Seats": 35,
+				"Total Seats": 485,
+				"Vote Share": 0.236
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 18502245,
+				"Candidates": null,
+				"Total Candidates": 1388,
+				"Seats": null,
+				"Total Seats": 485,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 133253,
+				"Total Votes": 18502245,
+				"Candidates": 30,
+				"Total Candidates": 1388,
+				"Seats": 3,
+				"Total Seats": 485,
+				"Vote Share": 0.007
+			}
+		},
+		"1931": {
+			"CON": {
+				"Votes": 11478385,
+				"Total Votes": 18083034,
+				"Candidates": 476,
+				"Total Candidates": 1032,
+				"Seats": 436,
+				"Total Seats": 485,
+				"Vote Share": 0.633
+			},
+			"LAB": {
+				"Votes": 5464425,
+				"Total Votes": 18083034,
+				"Candidates": 428,
+				"Total Candidates": 1032,
+				"Seats": 29,
+				"Total Seats": 485,
+				"Vote Share": 0.302
+			},
+			"LD": {
+				"Votes": 1039499,
+				"Total Votes": 18083034,
+				"Candidates": 87,
+				"Total Candidates": 1032,
+				"Seats": 19,
+				"Total Seats": 485,
+				"Vote Share": 0.06
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 18083034,
+				"Candidates": null,
+				"Total Candidates": 1032,
+				"Seats": null,
+				"Total Seats": 485,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 100725,
+				"Total Votes": 18083034,
+				"Candidates": 41,
+				"Total Candidates": 1032,
+				"Seats": 1,
+				"Total Seats": 485,
+				"Vote Share": 0.005
+			}
+		},
+		"1935": {
+			"CON": {
+				"Votes": 9987937,
+				"Total Votes": 18273035,
+				"Candidates": 473,
+				"Total Candidates": 1078,
+				"Seats": 357,
+				"Total Seats": 485,
+				"Vote Share": 0.545
+			},
+			"LAB": {
+				"Votes": 7054050,
+				"Total Votes": 18273035,
+				"Candidates": 452,
+				"Total Candidates": 1078,
+				"Seats": 116,
+				"Total Seats": 485,
+				"Vote Share": 0.385
+			},
+			"LD": {
+				"Votes": 1108971,
+				"Total Votes": 18273035,
+				"Candidates": 132,
+				"Total Candidates": 1078,
+				"Seats": 11,
+				"Total Seats": 485,
+				"Vote Share": 0.063
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 18273035,
+				"Candidates": null,
+				"Total Candidates": 1078,
+				"Seats": null,
+				"Total Seats": 485,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 122077,
+				"Total Votes": 18273035,
+				"Candidates": 21,
+				"Total Candidates": 1078,
+				"Seats": 1,
+				"Total Seats": 485,
+				"Vote Share": 0.007
+			}
+		},
+		"1945": {
+			"CON": {
+				"Votes": 8269191,
+				"Total Votes": 20539020,
+				"Candidates": 507,
+				"Total Candidates": 1363,
+				"Seats": 167,
+				"Total Seats": 510,
+				"Vote Share": 0.402
+			},
+			"LAB": {
+				"Votes": 9972519,
+				"Total Votes": 20539020,
+				"Candidates": 494,
+				"Total Candidates": 1363,
+				"Seats": 331,
+				"Total Seats": 510,
+				"Vote Share": 0.485
+			},
+			"LD": {
+				"Votes": 1913917,
+				"Total Votes": 20539020,
+				"Candidates": 265,
+				"Total Candidates": 1363,
+				"Seats": 5,
+				"Total Seats": 510,
+				"Vote Share": 0.094
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 20539020,
+				"Candidates": null,
+				"Total Candidates": 1363,
+				"Seats": null,
+				"Total Seats": 510,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 383393,
+				"Total Votes": 20539020,
+				"Candidates": 97,
+				"Total Candidates": 1363,
+				"Seats": 7,
+				"Total Seats": 510,
+				"Vote Share": 0.019
+			}
+		},
+		"1950": {
+			"CON": {
+				"Votes": 10499392,
+				"Total Votes": 23954448,
+				"Candidates": 504,
+				"Total Candidates": 1528,
+				"Seats": 253,
+				"Total Seats": 506,
+				"Vote Share": 0.438
+			},
+			"LAB": {
+				"Votes": 11050966,
+				"Total Votes": 23954448,
+				"Candidates": 505,
+				"Total Candidates": 1528,
+				"Seats": 251,
+				"Total Seats": 506,
+				"Vote Share": 0.461
+			},
+			"LD": {
+				"Votes": 2248127,
+				"Total Votes": 23954448,
+				"Candidates": 413,
+				"Total Candidates": 1528,
+				"Seats": 2,
+				"Total Seats": 506,
+				"Vote Share": 0.094
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 23954448,
+				"Candidates": null,
+				"Total Candidates": 1528,
+				"Seats": null,
+				"Total Seats": 506,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 155963,
+				"Total Votes": 23954448,
+				"Candidates": 106,
+				"Total Candidates": 1528,
+				"Seats": 0,
+				"Total Seats": 506,
+				"Vote Share": 0.007
+			}
+		},
+		"1951": {
+			"CON": {
+				"Votes": 11622704,
+				"Total Votes": 23826095,
+				"Candidates": 502,
+				"Total Candidates": 1528,
+				"Seats": 271,
+				"Total Seats": 506,
+				"Vote Share": 0.488
+			},
+			"LAB": {
+				"Votes": 11630467,
+				"Total Votes": 23826095,
+				"Candidates": 506,
+				"Total Candidates": 1528,
+				"Seats": 233,
+				"Total Seats": 506,
+				"Vote Share": 0.488
+			},
+			"LD": {
+				"Votes": 537434,
+				"Total Votes": 23826095,
+				"Candidates": 91,
+				"Total Candidates": 1528,
+				"Seats": 2,
+				"Total Seats": 506,
+				"Vote Share": 0.023
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 23826095,
+				"Candidates": null,
+				"Total Candidates": 1528,
+				"Seats": null,
+				"Total Seats": 506,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 35490,
+				"Total Votes": 23826095,
+				"Candidates": 13,
+				"Total Candidates": 1528,
+				"Seats": 0,
+				"Total Seats": 506,
+				"Vote Share": 0.001
+			}
+		},
+		"1955": {
+			"CON": {
+				"Votes": 11165436,
+				"Total Votes": 22136130,
+				"Candidates": 509,
+				"Total Candidates": 1134,
+				"Seats": 293,
+				"Total Seats": 511,
+				"Vote Share": 0.504
+			},
+			"LAB": {
+				"Votes": 10355892,
+				"Total Votes": 22136130,
+				"Candidates": 510,
+				"Total Candidates": 1134,
+				"Seats": 216,
+				"Total Seats": 511,
+				"Vote Share": 0.468
+			},
+			"LD": {
+				"Votes": 571034,
+				"Total Votes": 22136130,
+				"Candidates": 95,
+				"Total Candidates": 1134,
+				"Seats": 2,
+				"Total Seats": 511,
+				"Vote Share": 0.026
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 22136130,
+				"Candidates": null,
+				"Total Candidates": 1134,
+				"Seats": null,
+				"Total Seats": 511,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 43768,
+				"Total Votes": 22136130,
+				"Candidates": 20,
+				"Total Candidates": 1134,
+				"Seats": 0,
+				"Total Seats": 511,
+				"Vote Share": 0.002
+			}
+		},
+		"1959": {
+			"CON": {
+				"Votes": 11559240,
+				"Total Votes": 23127769,
+				"Candidates": 509,
+				"Total Candidates": 1234,
+				"Seats": 315,
+				"Total Seats": 511,
+				"Vote Share": 0.5
+			},
+			"LAB": {
+				"Votes": 10085097,
+				"Total Votes": 23127769,
+				"Candidates": 511,
+				"Total Candidates": 1234,
+				"Seats": 193,
+				"Total Seats": 511,
+				"Vote Share": 0.436
+			},
+			"LD": {
+				"Votes": 1449593,
+				"Total Votes": 23127769,
+				"Candidates": 191,
+				"Total Candidates": 1234,
+				"Seats": 3,
+				"Total Seats": 511,
+				"Vote Share": 0.063
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 23127769,
+				"Candidates": null,
+				"Total Candidates": 1234,
+				"Seats": null,
+				"Total Seats": 511,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 33839,
+				"Total Votes": 23127769,
+				"Candidates": 23,
+				"Total Candidates": 1234,
+				"Seats": 0,
+				"Total Seats": 511,
+				"Vote Share": 0.001
+			}
+		},
+		"1964": {
+			"CON": {
+				"Votes": 10106028,
+				"Total Votes": 22937251,
+				"Candidates": 511,
+				"Total Candidates": 1409,
+				"Seats": 262,
+				"Total Seats": 511,
+				"Vote Share": 0.441
+			},
+			"LAB": {
+				"Votes": 9982360,
+				"Total Votes": 22937251,
+				"Candidates": 511,
+				"Total Candidates": 1409,
+				"Seats": 246,
+				"Total Seats": 511,
+				"Vote Share": 0.435
+			},
+			"LD": {
+				"Votes": 2775752,
+				"Total Votes": 22937251,
+				"Candidates": 323,
+				"Total Candidates": 1409,
+				"Seats": 3,
+				"Total Seats": 511,
+				"Vote Share": 0.121
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 22937251,
+				"Candidates": null,
+				"Total Candidates": 1409,
+				"Seats": null,
+				"Total Seats": 511,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 73111,
+				"Total Votes": 22937251,
+				"Candidates": 64,
+				"Total Candidates": 1409,
+				"Seats": 0,
+				"Total Seats": 511,
+				"Vote Share": 0.003
+			}
+		},
+		"1966": {
+			"CON": {
+				"Votes": 9692356,
+				"Total Votes": 22692695,
+				"Candidates": 510,
+				"Total Candidates": 1363,
+				"Seats": 219,
+				"Total Seats": 511,
+				"Vote Share": 0.427
+			},
+			"LAB": {
+				"Votes": 10886408,
+				"Total Votes": 22692695,
+				"Candidates": 511,
+				"Total Candidates": 1363,
+				"Seats": 285,
+				"Total Seats": 511,
+				"Vote Share": 0.48
+			},
+			"LD": {
+				"Votes": 2036793,
+				"Total Votes": 22692695,
+				"Candidates": 273,
+				"Total Candidates": 1363,
+				"Seats": 6,
+				"Total Seats": 511,
+				"Vote Share": 0.09
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 22692695,
+				"Candidates": null,
+				"Total Candidates": 1363,
+				"Seats": null,
+				"Total Seats": 511,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 77138,
+				"Total Votes": 22692695,
+				"Candidates": 69,
+				"Total Candidates": 1363,
+				"Seats": 1,
+				"Total Seats": 511,
+				"Vote Share": 0.003
+			}
+		},
+		"1970": {
+			"CON": {
+				"Votes": 11282524,
+				"Total Votes": 23360896,
+				"Candidates": 510,
+				"Total Candidates": 1403,
+				"Seats": 292,
+				"Total Seats": 511,
+				"Vote Share": 0.483
+			},
+			"LAB": {
+				"Votes": 10131555,
+				"Total Votes": 23360896,
+				"Candidates": 511,
+				"Total Candidates": 1403,
+				"Seats": 216,
+				"Total Seats": 511,
+				"Vote Share": 0.434
+			},
+			"LD": {
+				"Votes": 1853616,
+				"Total Votes": 23360896,
+				"Candidates": 282,
+				"Total Candidates": 1403,
+				"Seats": 2,
+				"Total Seats": 511,
+				"Vote Share": 0.079
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 23360896,
+				"Candidates": null,
+				"Total Candidates": 1403,
+				"Seats": null,
+				"Total Seats": 511,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 93201,
+				"Total Votes": 23360896,
+				"Candidates": 100,
+				"Total Candidates": 1403,
+				"Seats": 1,
+				"Total Seats": 511,
+				"Vote Share": 0.004
+			}
+		},
+		"1974F": {
+			"CON": {
+				"Votes": 10508977,
+				"Total Votes": 26141618,
+				"Candidates": 516,
+				"Total Candidates": 1674,
+				"Seats": 268,
+				"Total Seats": 516,
+				"Vote Share": 0.402
+			},
+			"LAB": {
+				"Votes": 9842468,
+				"Total Votes": 26141618,
+				"Candidates": 516,
+				"Total Candidates": 1674,
+				"Seats": 237,
+				"Total Seats": 516,
+				"Vote Share": 0.377
+			},
+			"LD": {
+				"Votes": 5574934,
+				"Total Votes": 26141618,
+				"Candidates": 452,
+				"Total Candidates": 1674,
+				"Seats": 9,
+				"Total Seats": 516,
+				"Vote Share": 0.213
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 26141618,
+				"Candidates": null,
+				"Total Candidates": 1674,
+				"Seats": null,
+				"Total Seats": 516,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 215239,
+				"Total Votes": 26141618,
+				"Candidates": 190,
+				"Total Candidates": 1674,
+				"Seats": 2,
+				"Total Seats": 516,
+				"Vote Share": 0.008
+			}
+		},
+		"1974O": {
+			"CON": {
+				"Votes": 9414008,
+				"Total Votes": 24191069,
+				"Candidates": 515,
+				"Total Candidates": 1766,
+				"Seats": 253,
+				"Total Seats": 516,
+				"Vote Share": 0.389
+			},
+			"LAB": {
+				"Votes": 9695051,
+				"Total Votes": 24191069,
+				"Candidates": 516,
+				"Total Candidates": 1766,
+				"Seats": 255,
+				"Total Seats": 516,
+				"Vote Share": 0.401
+			},
+			"LD": {
+				"Votes": 4878792,
+				"Total Votes": 24191069,
+				"Candidates": 515,
+				"Total Candidates": 1766,
+				"Seats": 8,
+				"Total Seats": 516,
+				"Vote Share": 0.202
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 24191069,
+				"Candidates": null,
+				"Total Candidates": 1766,
+				"Seats": null,
+				"Total Seats": 516,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 203218,
+				"Total Votes": 24191069,
+				"Candidates": 220,
+				"Total Candidates": 1766,
+				"Seats": 0,
+				"Total Seats": 516,
+				"Vote Share": 0.008
+			}
+		},
+		"1979": {
+			"CON": {
+				"Votes": 12255514,
+				"Total Votes": 25972250,
+				"Candidates": 516,
+				"Total Candidates": 2074,
+				"Seats": 306,
+				"Total Seats": 516,
+				"Vote Share": 0.472
+			},
+			"LAB": {
+				"Votes": 9525280,
+				"Total Votes": 25972250,
+				"Candidates": 516,
+				"Total Candidates": 2074,
+				"Seats": 203,
+				"Total Seats": 516,
+				"Vote Share": 0.367
+			},
+			"LD": {
+				"Votes": 3878055,
+				"Total Votes": 25972250,
+				"Candidates": 506,
+				"Total Candidates": 2074,
+				"Seats": 7,
+				"Total Seats": 516,
+				"Vote Share": 0.149
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 25972250,
+				"Candidates": null,
+				"Total Candidates": 2074,
+				"Seats": null,
+				"Total Seats": 516,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 313401,
+				"Total Votes": 25972250,
+				"Candidates": 536,
+				"Total Candidates": 2074,
+				"Seats": 0,
+				"Total Seats": 516,
+				"Vote Share": 0.012
+			}
+		},
+		"1983": {
+			"CON": {
+				"Votes": 11711519,
+				"Total Votes": 25472646,
+				"Candidates": 523,
+				"Total Candidates": 2000,
+				"Seats": 362,
+				"Total Seats": 523,
+				"Vote Share": 0.46
+			},
+			"LAB": {
+				"Votes": 6862422,
+				"Total Votes": 25472646,
+				"Candidates": 523,
+				"Total Candidates": 2000,
+				"Seats": 148,
+				"Total Seats": 523,
+				"Vote Share": 0.269
+			},
+			"LD": {
+				"Votes": 6714957,
+				"Total Votes": 25472646,
+				"Candidates": 523,
+				"Total Candidates": 2000,
+				"Seats": 13,
+				"Total Seats": 523,
+				"Vote Share": 0.264
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 25472646,
+				"Candidates": null,
+				"Total Candidates": 2000,
+				"Seats": null,
+				"Total Seats": 523,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 183748,
+				"Total Votes": 25472646,
+				"Candidates": 431,
+				"Total Candidates": 2000,
+				"Seats": 0,
+				"Total Seats": 523,
+				"Vote Share": 0.007
+			}
+		},
+		"1987": {
+			"CON": {
+				"Votes": 12546186,
+				"Total Votes": 27133522,
+				"Candidates": 523,
+				"Total Candidates": 1782,
+				"Seats": 358,
+				"Total Seats": 523,
+				"Vote Share": 0.462
+			},
+			"LAB": {
+				"Votes": 8006466,
+				"Total Votes": 27133522,
+				"Candidates": 523,
+				"Total Candidates": 1782,
+				"Seats": 155,
+				"Total Seats": 523,
+				"Vote Share": 0.295
+			},
+			"LD": {
+				"Votes": 6467350,
+				"Total Votes": 27133522,
+				"Candidates": 523,
+				"Total Candidates": 1782,
+				"Seats": 10,
+				"Total Seats": 523,
+				"Vote Share": 0.238
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 27133522,
+				"Candidates": null,
+				"Total Candidates": 1782,
+				"Seats": null,
+				"Total Seats": 523,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 113520,
+				"Total Votes": 27133522,
+				"Candidates": 213,
+				"Total Candidates": 1782,
+				"Seats": 0,
+				"Total Seats": 523,
+				"Vote Share": 0.004
+			}
+		},
+		"1992": {
+			"CON": {
+				"Votes": 12796772,
+				"Total Votes": 28148506,
+				"Candidates": 524,
+				"Total Candidates": 2328,
+				"Seats": 319,
+				"Total Seats": 524,
+				"Vote Share": 0.455
+			},
+			"LAB": {
+				"Votes": 9551910,
+				"Total Votes": 28148506,
+				"Candidates": 524,
+				"Total Candidates": 2328,
+				"Seats": 195,
+				"Total Seats": 524,
+				"Vote Share": 0.339
+			},
+			"LD": {
+				"Votes": 5398293,
+				"Total Votes": 28148506,
+				"Candidates": 522,
+				"Total Candidates": 2328,
+				"Seats": 10,
+				"Total Seats": 524,
+				"Vote Share": 0.192
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 28148506,
+				"Candidates": null,
+				"Total Candidates": 2328,
+				"Seats": null,
+				"Total Seats": 524,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 401531,
+				"Total Votes": 28148506,
+				"Candidates": 758,
+				"Total Candidates": 2328,
+				"Seats": 0,
+				"Total Seats": 524,
+				"Vote Share": 0.014
+			}
+		},
+		"1997": {
+			"CON": {
+				"Votes": 8780881,
+				"Total Votes": 26058712,
+				"Candidates": 528,
+				"Total Candidates": 2945,
+				"Seats": 165,
+				"Total Seats": 529,
+				"Vote Share": 0.337
+			},
+			"LAB": {
+				"Votes": 11347882,
+				"Total Votes": 26058712,
+				"Candidates": 527,
+				"Total Candidates": 2945,
+				"Seats": 328,
+				"Total Seats": 529,
+				"Vote Share": 0.435
+			},
+			"LD": {
+				"Votes": 4677565,
+				"Total Votes": 26058712,
+				"Candidates": 527,
+				"Total Candidates": 2945,
+				"Seats": 34,
+				"Total Seats": 529,
+				"Vote Share": 0.18
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 26058712,
+				"Candidates": null,
+				"Total Candidates": 2945,
+				"Seats": null,
+				"Total Seats": 529,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 1252384,
+				"Total Votes": 26058712,
+				"Candidates": 1363,
+				"Total Candidates": 2945,
+				"Seats": 2,
+				"Total Seats": 529,
+				"Vote Share": 0.048
+			}
+		},
+		"2001": {
+			"CON": {
+				"Votes": 7705870,
+				"Total Votes": 21870762,
+				"Candidates": 529,
+				"Total Candidates": 2588,
+				"Seats": 165,
+				"Total Seats": 529,
+				"Vote Share": 0.352
+			},
+			"LAB": {
+				"Votes": 9056824,
+				"Total Votes": 21870762,
+				"Candidates": 529,
+				"Total Candidates": 2588,
+				"Seats": 323,
+				"Total Seats": 529,
+				"Vote Share": 0.414
+			},
+			"LD": {
+				"Votes": 4246853,
+				"Total Votes": 21870762,
+				"Candidates": 528,
+				"Total Candidates": 2588,
+				"Seats": 40,
+				"Total Seats": 529,
+				"Vote Share": 0.194
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 21870762,
+				"Candidates": null,
+				"Total Candidates": 2588,
+				"Seats": null,
+				"Total Seats": 529,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 861215,
+				"Total Votes": 21870762,
+				"Candidates": 1002,
+				"Total Candidates": 2588,
+				"Seats": 1,
+				"Total Seats": 529,
+				"Vote Share": 0.039
+			}
+		},
+		"2005": {
+			"CON": {
+				"Votes": 8114979,
+				"Total Votes": 22704302,
+				"Candidates": 529,
+				"Total Candidates": 2817,
+				"Seats": 194,
+				"Total Seats": 529,
+				"Vote Share": 0.357
+			},
+			"LAB": {
+				"Votes": 8050366,
+				"Total Votes": 22704302,
+				"Candidates": 529,
+				"Total Candidates": 2817,
+				"Seats": 286,
+				"Total Seats": 529,
+				"Vote Share": 0.355
+			},
+			"LD": {
+				"Votes": 5201129,
+				"Total Votes": 22704302,
+				"Candidates": 528,
+				"Total Candidates": 2817,
+				"Seats": 47,
+				"Total Seats": 529,
+				"Vote Share": 0.229
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 22704302,
+				"Candidates": null,
+				"Total Candidates": 2817,
+				"Seats": null,
+				"Total Seats": 529,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 1337828,
+				"Total Votes": 22704302,
+				"Candidates": 1231,
+				"Total Candidates": 2817,
+				"Seats": 2,
+				"Total Seats": 529,
+				"Vote Share": 0.059
+			}
+		},
+		"2010": {
+			"CON": {
+				"Votes": 9908019,
+				"Total Votes": 25081268,
+				"Candidates": 532,
+				"Total Candidates": 3425,
+				"Seats": 297,
+				"Total Seats": 533,
+				"Vote Share": 0.395
+			},
+			"LAB": {
+				"Votes": 7039387,
+				"Total Votes": 25081268,
+				"Candidates": 532,
+				"Total Candidates": 3425,
+				"Seats": 191,
+				"Total Seats": 533,
+				"Vote Share": 0.281
+			},
+			"LD": {
+				"Votes": 6075613,
+				"Total Votes": 25081268,
+				"Candidates": 532,
+				"Total Candidates": 3425,
+				"Seats": 43,
+				"Total Seats": 533,
+				"Vote Share": 0.242
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 25081268,
+				"Candidates": null,
+				"Total Candidates": 3425,
+				"Seats": null,
+				"Total Seats": 533,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 2058249,
+				"Total Votes": 25081268,
+				"Candidates": 1829,
+				"Total Candidates": 3425,
+				"Seats": 2,
+				"Total Seats": 533,
+				"Vote Share": 0.082
+			}
+		},
+		"2015": {
+			"CON": {
+				"Votes": 10448600,
+				"Total Votes": 25570900,
+				"Candidates": 532,
+				"Total Candidates": 3209,
+				"Seats": 318,
+				"Total Seats": 533,
+				"Vote Share": 0.409
+			},
+			"LAB": {
+				"Votes": 8087700,
+				"Total Votes": 25570900,
+				"Candidates": 532,
+				"Total Candidates": 3209,
+				"Seats": 206,
+				"Total Seats": 533,
+				"Vote Share": 0.316
+			},
+			"LD": {
+				"Votes": 2098500,
+				"Total Votes": 25570900,
+				"Candidates": 532,
+				"Total Candidates": 3209,
+				"Seats": 6,
+				"Total Seats": 533,
+				"Vote Share": 0.082
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 25570900,
+				"Candidates": null,
+				"Total Candidates": 3209,
+				"Seats": null,
+				"Total Seats": 533,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 4936100,
+				"Total Votes": 25570900,
+				"Candidates": 1613,
+				"Total Candidates": 3209,
+				"Seats": 3,
+				"Total Seats": 533,
+				"Vote Share": 0.193
+			}
+		},
+		"2017": {
+			"CON": {
+				"Votes": 12346000,
+				"Total Votes": 27156000,
+				"Candidates": 532,
+				"Total Candidates": 2716,
+				"Seats": 296,
+				"Total Seats": 533,
+				"Vote Share": 0.455
+			},
+			"LAB": {
+				"Votes": 11389000,
+				"Total Votes": 27156000,
+				"Candidates": 532,
+				"Total Candidates": 2716,
+				"Seats": 227,
+				"Total Seats": 533,
+				"Vote Share": 0.419
+			},
+			"LD": {
+				"Votes": 2112000,
+				"Total Votes": 27156000,
+				"Candidates": 530,
+				"Total Candidates": 2716,
+				"Seats": 8,
+				"Total Seats": 533,
+				"Vote Share": 0.078
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 27156000,
+				"Candidates": null,
+				"Total Candidates": 2716,
+				"Seats": null,
+				"Total Seats": 533,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 1309000,
+				"Total Votes": 27156000,
+				"Candidates": 1122,
+				"Total Candidates": 2716,
+				"Seats": 2,
+				"Total Seats": 533,
+				"Vote Share": 0.048
+			}
+		},
+		"2019": {
+			"CON": {
+				"Votes": 12710848,
+				"Total Votes": 26911657,
+				"Candidates": 532,
+				"Total Candidates": 2710,
+				"Seats": 345,
+				"Total Seats": 533,
+				"Vote Share": 0.472
+			},
+			"LAB": {
+				"Votes": 9125178,
+				"Total Votes": 26911657,
+				"Candidates": 532,
+				"Total Candidates": 2710,
+				"Seats": 179,
+				"Total Seats": 533,
+				"Vote Share": 0.339
+			},
+			"LD": {
+				"Votes": 3340831,
+				"Total Votes": 26911657,
+				"Candidates": 520,
+				"Total Candidates": 2710,
+				"Seats": 7,
+				"Total Seats": 533,
+				"Vote Share": 0.124
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 26911657,
+				"Candidates": null,
+				"Total Candidates": 2710,
+				"Seats": null,
+				"Total Seats": 533,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 1734800,
+				"Total Votes": 26911657,
+				"Candidates": 1126,
+				"Total Candidates": 2710,
+				"Seats": 2,
+				"Total Seats": 533,
+				"Vote Share": 0.064
+			}
+		}
+	},
+	"W": {
+		"1918": {
+			"CON": {
+				"Votes": 59592,
+				"Total Votes": 529034,
+				"Candidates": 8,
+				"Total Candidates": 71,
+				"Seats": 4,
+				"Total Seats": 35,
+				"Vote Share": 0.113
+			},
+			"LAB": {
+				"Votes": 163055,
+				"Total Votes": 529034,
+				"Candidates": 25,
+				"Total Candidates": 71,
+				"Seats": 9,
+				"Total Seats": 35,
+				"Vote Share": 0.308
+			},
+			"LD": {
+				"Votes": 258759,
+				"Total Votes": 529034,
+				"Candidates": 29,
+				"Total Candidates": 71,
+				"Seats": 20,
+				"Total Seats": 35,
+				"Vote Share": 0.489
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 529034,
+				"Candidates": null,
+				"Total Candidates": 71,
+				"Seats": null,
+				"Total Seats": 35,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 47628,
+				"Total Votes": 529034,
+				"Candidates": 9,
+				"Total Candidates": 71,
+				"Seats": 2,
+				"Total Seats": 35,
+				"Vote Share": 0.09
+			}
+		},
+		"1922": {
+			"CON": {
+				"Votes": 190919,
+				"Total Votes": 892700,
+				"Candidates": 19,
+				"Total Candidates": 80,
+				"Seats": 6,
+				"Total Seats": 35,
+				"Vote Share": 0.214
+			},
+			"LAB": {
+				"Votes": 363568,
+				"Total Votes": 892700,
+				"Candidates": 28,
+				"Total Candidates": 80,
+				"Seats": 18,
+				"Total Seats": 35,
+				"Vote Share": 0.408
+			},
+			"LD": {
+				"Votes": 305957,
+				"Total Votes": 892700,
+				"Candidates": 30,
+				"Total Candidates": 80,
+				"Seats": 10,
+				"Total Seats": 35,
+				"Vote Share": 0.342
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 892700,
+				"Candidates": null,
+				"Total Candidates": 80,
+				"Seats": null,
+				"Total Seats": 35,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 32256,
+				"Total Votes": 892700,
+				"Candidates": 3,
+				"Total Candidates": 80,
+				"Seats": 1,
+				"Total Seats": 35,
+				"Vote Share": 0.036
+			}
+		},
+		"1923": {
+			"CON": {
+				"Votes": 178113,
+				"Total Votes": 845068,
+				"Candidates": 19,
+				"Total Candidates": 78,
+				"Seats": 4,
+				"Total Seats": 35,
+				"Vote Share": 0.211
+			},
+			"LAB": {
+				"Votes": 355172,
+				"Total Votes": 845068,
+				"Candidates": 27,
+				"Total Candidates": 78,
+				"Seats": 19,
+				"Total Seats": 35,
+				"Vote Share": 0.42
+			},
+			"LD": {
+				"Votes": 299314,
+				"Total Votes": 845068,
+				"Candidates": 31,
+				"Total Candidates": 78,
+				"Seats": 11,
+				"Total Seats": 35,
+				"Vote Share": 0.354
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 845068,
+				"Candidates": null,
+				"Total Candidates": 78,
+				"Seats": null,
+				"Total Seats": 35,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 12469,
+				"Total Votes": 845068,
+				"Candidates": 1,
+				"Total Candidates": 78,
+				"Seats": 1,
+				"Total Seats": 35,
+				"Vote Share": 0.015
+			}
+		},
+		"1924": {
+			"CON": {
+				"Votes": 224014,
+				"Total Votes": 789239,
+				"Candidates": 17,
+				"Total Candidates": 71,
+				"Seats": 9,
+				"Total Seats": 35,
+				"Vote Share": 0.284
+			},
+			"LAB": {
+				"Votes": 320397,
+				"Total Votes": 789239,
+				"Candidates": 33,
+				"Total Candidates": 71,
+				"Seats": 16,
+				"Total Seats": 35,
+				"Vote Share": 0.406
+			},
+			"LD": {
+				"Votes": 244828,
+				"Total Votes": 789239,
+				"Candidates": 21,
+				"Total Candidates": 71,
+				"Seats": 10,
+				"Total Seats": 35,
+				"Vote Share": 0.31
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 789239,
+				"Candidates": null,
+				"Total Candidates": 71,
+				"Seats": null,
+				"Total Seats": 35,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": null,
+				"Total Votes": 789239,
+				"Candidates": null,
+				"Total Candidates": 71,
+				"Seats": 0,
+				"Total Seats": 35,
+				"Vote Share": 0.0
+			}
+		},
+		"1929": {
+			"CON": {
+				"Votes": 289695,
+				"Total Votes": 1316912,
+				"Candidates": 35,
+				"Total Candidates": 106,
+				"Seats": 1,
+				"Total Seats": 35,
+				"Vote Share": 0.22
+			},
+			"LAB": {
+				"Votes": 577554,
+				"Total Votes": 1316912,
+				"Candidates": 33,
+				"Total Candidates": 106,
+				"Seats": 25,
+				"Total Seats": 35,
+				"Vote Share": 0.439
+			},
+			"LD": {
+				"Votes": 440911,
+				"Total Votes": 1316912,
+				"Candidates": 34,
+				"Total Candidates": 106,
+				"Seats": 9,
+				"Total Seats": 35,
+				"Vote Share": 0.335
+			},
+			"PC/SNP": {
+				"Votes": 609,
+				"Total Votes": 1316912,
+				"Candidates": 1,
+				"Total Candidates": 106,
+				"Seats": 0,
+				"Total Seats": 35,
+				"Vote Share": 0.0
+			},
+			"Other": {
+				"Votes": 8143,
+				"Total Votes": 1316912,
+				"Candidates": 3,
+				"Total Candidates": 106,
+				"Seats": 0,
+				"Total Seats": 35,
+				"Vote Share": 0.006
+			}
+		},
+		"1931": {
+			"CON": {
+				"Votes": 340698,
+				"Total Votes": 1088546,
+				"Candidates": 20,
+				"Total Candidates": 72,
+				"Seats": 11,
+				"Total Seats": 35,
+				"Vote Share": 0.313
+			},
+			"LAB": {
+				"Votes": 479547,
+				"Total Votes": 1088546,
+				"Candidates": 30,
+				"Total Candidates": 72,
+				"Seats": 16,
+				"Total Seats": 35,
+				"Vote Share": 0.441
+			},
+			"LD": {
+				"Votes": 229011,
+				"Total Votes": 1088546,
+				"Candidates": 14,
+				"Total Candidates": 72,
+				"Seats": 8,
+				"Total Seats": 35,
+				"Vote Share": 0.211
+			},
+			"PC/SNP": {
+				"Votes": 1136,
+				"Total Votes": 1088546,
+				"Candidates": 1,
+				"Total Candidates": 72,
+				"Seats": 0,
+				"Total Seats": 35,
+				"Vote Share": 0.001
+			},
+			"Other": {
+				"Votes": 38154,
+				"Total Votes": 1088546,
+				"Candidates": 7,
+				"Total Candidates": 72,
+				"Seats": 0,
+				"Total Seats": 35,
+				"Vote Share": 0.034
+			}
+		},
+		"1935": {
+			"CON": {
+				"Votes": 292527,
+				"Total Votes": 871277,
+				"Candidates": 20,
+				"Total Candidates": 68,
+				"Seats": 11,
+				"Total Seats": 35,
+				"Vote Share": 0.336
+			},
+			"LAB": {
+				"Votes": 395830,
+				"Total Votes": 871277,
+				"Candidates": 33,
+				"Total Candidates": 68,
+				"Seats": 18,
+				"Total Seats": 35,
+				"Vote Share": 0.454
+			},
+			"LD": {
+				"Votes": 157091,
+				"Total Votes": 871277,
+				"Candidates": 12,
+				"Total Candidates": 68,
+				"Seats": 6,
+				"Total Seats": 35,
+				"Vote Share": 0.18
+			},
+			"PC/SNP": {
+				"Votes": 2534,
+				"Total Votes": 871277,
+				"Candidates": 1,
+				"Total Candidates": 68,
+				"Seats": 0,
+				"Total Seats": 35,
+				"Vote Share": 0.003
+			},
+			"Other": {
+				"Votes": 23295,
+				"Total Votes": 871277,
+				"Candidates": 2,
+				"Total Candidates": 68,
+				"Seats": 0,
+				"Total Seats": 35,
+				"Vote Share": 0.027
+			}
+		},
+		"1945": {
+			"CON": {
+				"Votes": 316729,
+				"Total Votes": 1330671,
+				"Candidates": 27,
+				"Total Candidates": 87,
+				"Seats": 4,
+				"Total Seats": 35,
+				"Vote Share": 0.238
+			},
+			"LAB": {
+				"Votes": 779184,
+				"Total Votes": 1330671,
+				"Candidates": 34,
+				"Total Candidates": 87,
+				"Seats": 25,
+				"Total Seats": 35,
+				"Vote Share": 0.585
+			},
+			"LD": {
+				"Votes": 198553,
+				"Total Votes": 1330671,
+				"Candidates": 17,
+				"Total Candidates": 87,
+				"Seats": 6,
+				"Total Seats": 35,
+				"Vote Share": 0.149
+			},
+			"PC/SNP": {
+				"Votes": 14321,
+				"Total Votes": 1330671,
+				"Candidates": 6,
+				"Total Candidates": 87,
+				"Seats": 0,
+				"Total Seats": 35,
+				"Vote Share": 0.011
+			},
+			"Other": {
+				"Votes": 21884,
+				"Total Votes": 1330671,
+				"Candidates": 3,
+				"Total Candidates": 87,
+				"Seats": 0,
+				"Total Seats": 35,
+				"Vote Share": 0.017
+			}
+		},
+		"1950": {
+			"CON": {
+				"Votes": 418668,
+				"Total Votes": 1528554,
+				"Candidates": 35,
+				"Total Candidates": 105,
+				"Seats": 4,
+				"Total Seats": 36,
+				"Vote Share": 0.274
+			},
+			"LAB": {
+				"Votes": 887984,
+				"Total Votes": 1528554,
+				"Candidates": 36,
+				"Total Candidates": 105,
+				"Seats": 27,
+				"Total Seats": 36,
+				"Vote Share": 0.581
+			},
+			"LD": {
+				"Votes": 193090,
+				"Total Votes": 1528554,
+				"Candidates": 21,
+				"Total Candidates": 105,
+				"Seats": 5,
+				"Total Seats": 36,
+				"Vote Share": 0.126
+			},
+			"PC/SNP": {
+				"Votes": 17580,
+				"Total Votes": 1528554,
+				"Candidates": 7,
+				"Total Candidates": 105,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.012
+			},
+			"Other": {
+				"Votes": 11232,
+				"Total Votes": 1528554,
+				"Candidates": 6,
+				"Total Candidates": 105,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.007
+			}
+		},
+		"1951": {
+			"CON": {
+				"Votes": 471269,
+				"Total Votes": 1529449,
+				"Candidates": 33,
+				"Total Candidates": 84,
+				"Seats": 6,
+				"Total Seats": 36,
+				"Vote Share": 0.308
+			},
+			"LAB": {
+				"Votes": 925848,
+				"Total Votes": 1529449,
+				"Candidates": 36,
+				"Total Candidates": 84,
+				"Seats": 27,
+				"Total Seats": 36,
+				"Vote Share": 0.605
+			},
+			"LD": {
+				"Votes": 116821,
+				"Total Votes": 1529449,
+				"Candidates": 9,
+				"Total Candidates": 84,
+				"Seats": 3,
+				"Total Seats": 36,
+				"Vote Share": 0.076
+			},
+			"PC/SNP": {
+				"Votes": 10920,
+				"Total Votes": 1529449,
+				"Candidates": 4,
+				"Total Candidates": 84,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.007
+			},
+			"Other": {
+				"Votes": 4591,
+				"Total Votes": 1529449,
+				"Candidates": 2,
+				"Total Candidates": 84,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.003
+			}
+		},
+		"1955": {
+			"CON": {
+				"Votes": 428866,
+				"Total Votes": 1433724,
+				"Candidates": 32,
+				"Total Candidates": 91,
+				"Seats": 6,
+				"Total Seats": 36,
+				"Vote Share": 0.299
+			},
+			"LAB": {
+				"Votes": 825690,
+				"Total Votes": 1433724,
+				"Candidates": 36,
+				"Total Candidates": 91,
+				"Seats": 27,
+				"Total Seats": 36,
+				"Vote Share": 0.576
+			},
+			"LD": {
+				"Votes": 104095,
+				"Total Votes": 1433724,
+				"Candidates": 10,
+				"Total Candidates": 91,
+				"Seats": 3,
+				"Total Seats": 36,
+				"Vote Share": 0.073
+			},
+			"PC/SNP": {
+				"Votes": 45119,
+				"Total Votes": 1433724,
+				"Candidates": 11,
+				"Total Candidates": 91,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.031
+			},
+			"Other": {
+				"Votes": 29954,
+				"Total Votes": 1433724,
+				"Candidates": 2,
+				"Total Candidates": 91,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.021
+			}
+		},
+		"1959": {
+			"CON": {
+				"Votes": 486335,
+				"Total Votes": 1491257,
+				"Candidates": 34,
+				"Total Candidates": 101,
+				"Seats": 7,
+				"Total Seats": 36,
+				"Vote Share": 0.326
+			},
+			"LAB": {
+				"Votes": 841450,
+				"Total Votes": 1491257,
+				"Candidates": 36,
+				"Total Candidates": 101,
+				"Seats": 27,
+				"Total Seats": 36,
+				"Vote Share": 0.564
+			},
+			"LD": {
+				"Votes": 78951,
+				"Total Votes": 1491257,
+				"Candidates": 8,
+				"Total Candidates": 101,
+				"Seats": 2,
+				"Total Seats": 36,
+				"Vote Share": 0.053
+			},
+			"PC/SNP": {
+				"Votes": 77571,
+				"Total Votes": 1491257,
+				"Candidates": 20,
+				"Total Candidates": 101,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.052
+			},
+			"Other": {
+				"Votes": 6950,
+				"Total Votes": 1491257,
+				"Candidates": 3,
+				"Total Candidates": 101,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.005
+			}
+		},
+		"1964": {
+			"CON": {
+				"Votes": 425022,
+				"Total Votes": 1447042,
+				"Candidates": 36,
+				"Total Candidates": 112,
+				"Seats": 6,
+				"Total Seats": 36,
+				"Vote Share": 0.294
+			},
+			"LAB": {
+				"Votes": 837022,
+				"Total Votes": 1447042,
+				"Candidates": 36,
+				"Total Candidates": 112,
+				"Seats": 28,
+				"Total Seats": 36,
+				"Vote Share": 0.578
+			},
+			"LD": {
+				"Votes": 106114,
+				"Total Votes": 1447042,
+				"Candidates": 12,
+				"Total Candidates": 112,
+				"Seats": 2,
+				"Total Seats": 36,
+				"Vote Share": 0.073
+			},
+			"PC/SNP": {
+				"Votes": 69507,
+				"Total Votes": 1447042,
+				"Candidates": 23,
+				"Total Candidates": 112,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.048
+			},
+			"Other": {
+				"Votes": 9377,
+				"Total Votes": 1447042,
+				"Candidates": 5,
+				"Total Candidates": 112,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.006
+			}
+		},
+		"1966": {
+			"CON": {
+				"Votes": 396795,
+				"Total Votes": 1423435,
+				"Candidates": 36,
+				"Total Candidates": 111,
+				"Seats": 3,
+				"Total Seats": 36,
+				"Vote Share": 0.279
+			},
+			"LAB": {
+				"Votes": 863692,
+				"Total Votes": 1423435,
+				"Candidates": 36,
+				"Total Candidates": 111,
+				"Seats": 32,
+				"Total Seats": 36,
+				"Vote Share": 0.607
+			},
+			"LD": {
+				"Votes": 89108,
+				"Total Votes": 1423435,
+				"Candidates": 11,
+				"Total Candidates": 111,
+				"Seats": 1,
+				"Total Seats": 36,
+				"Vote Share": 0.063
+			},
+			"PC/SNP": {
+				"Votes": 61071,
+				"Total Votes": 1423435,
+				"Candidates": 20,
+				"Total Candidates": 111,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.043
+			},
+			"Other": {
+				"Votes": 12769,
+				"Total Votes": 1423435,
+				"Candidates": 8,
+				"Total Candidates": 111,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.009
+			}
+		},
+		"1970": {
+			"CON": {
+				"Votes": 419884,
+				"Total Votes": 1516554,
+				"Candidates": 36,
+				"Total Candidates": 138,
+				"Seats": 7,
+				"Total Seats": 36,
+				"Vote Share": 0.277
+			},
+			"LAB": {
+				"Votes": 781941,
+				"Total Votes": 1516554,
+				"Candidates": 36,
+				"Total Candidates": 138,
+				"Seats": 27,
+				"Total Seats": 36,
+				"Vote Share": 0.516
+			},
+			"LD": {
+				"Votes": 103747,
+				"Total Votes": 1516554,
+				"Candidates": 19,
+				"Total Candidates": 138,
+				"Seats": 1,
+				"Total Seats": 36,
+				"Vote Share": 0.068
+			},
+			"PC/SNP": {
+				"Votes": 175016,
+				"Total Votes": 1516554,
+				"Candidates": 36,
+				"Total Candidates": 138,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.115
+			},
+			"Other": {
+				"Votes": 35966,
+				"Total Votes": 1516554,
+				"Candidates": 11,
+				"Total Candidates": 138,
+				"Seats": 1,
+				"Total Seats": 36,
+				"Vote Share": 0.024
+			}
+		},
+		"1974F": {
+			"CON": {
+				"Votes": 412535,
+				"Total Votes": 1593843,
+				"Candidates": 36,
+				"Total Candidates": 148,
+				"Seats": 8,
+				"Total Seats": 36,
+				"Vote Share": 0.259
+			},
+			"LAB": {
+				"Votes": 745547,
+				"Total Votes": 1593843,
+				"Candidates": 36,
+				"Total Candidates": 148,
+				"Seats": 24,
+				"Total Seats": 36,
+				"Vote Share": 0.468
+			},
+			"LD": {
+				"Votes": 255423,
+				"Total Votes": 1593843,
+				"Candidates": 31,
+				"Total Candidates": 148,
+				"Seats": 2,
+				"Total Seats": 36,
+				"Vote Share": 0.16
+			},
+			"PC/SNP": {
+				"Votes": 171374,
+				"Total Votes": 1593843,
+				"Candidates": 36,
+				"Total Candidates": 148,
+				"Seats": 2,
+				"Total Seats": 36,
+				"Vote Share": 0.108
+			},
+			"Other": {
+				"Votes": 8964,
+				"Total Votes": 1593843,
+				"Candidates": 9,
+				"Total Candidates": 148,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.006
+			}
+		},
+		"1974O": {
+			"CON": {
+				"Votes": 367230,
+				"Total Votes": 1537840,
+				"Candidates": 36,
+				"Total Candidates": 150,
+				"Seats": 8,
+				"Total Seats": 36,
+				"Vote Share": 0.239
+			},
+			"LAB": {
+				"Votes": 761447,
+				"Total Votes": 1537840,
+				"Candidates": 36,
+				"Total Candidates": 150,
+				"Seats": 23,
+				"Total Seats": 36,
+				"Vote Share": 0.495
+			},
+			"LD": {
+				"Votes": 239057,
+				"Total Votes": 1537840,
+				"Candidates": 36,
+				"Total Candidates": 150,
+				"Seats": 2,
+				"Total Seats": 36,
+				"Vote Share": 0.155
+			},
+			"PC/SNP": {
+				"Votes": 166321,
+				"Total Votes": 1537840,
+				"Candidates": 36,
+				"Total Candidates": 150,
+				"Seats": 3,
+				"Total Seats": 36,
+				"Vote Share": 0.108
+			},
+			"Other": {
+				"Votes": 3785,
+				"Total Votes": 1537840,
+				"Candidates": 6,
+				"Total Candidates": 150,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.002
+			}
+		},
+		"1979": {
+			"CON": {
+				"Votes": 526254,
+				"Total Votes": 1636588,
+				"Candidates": 35,
+				"Total Candidates": 154,
+				"Seats": 11,
+				"Total Seats": 36,
+				"Vote Share": 0.322
+			},
+			"LAB": {
+				"Votes": 795493,
+				"Total Votes": 1636588,
+				"Candidates": 36,
+				"Total Candidates": 154,
+				"Seats": 22,
+				"Total Seats": 36,
+				"Vote Share": 0.486
+			},
+			"LD": {
+				"Votes": 173525,
+				"Total Votes": 1636588,
+				"Candidates": 28,
+				"Total Candidates": 154,
+				"Seats": 1,
+				"Total Seats": 36,
+				"Vote Share": 0.106
+			},
+			"PC/SNP": {
+				"Votes": 132544,
+				"Total Votes": 1636588,
+				"Candidates": 36,
+				"Total Candidates": 154,
+				"Seats": 2,
+				"Total Seats": 36,
+				"Vote Share": 0.081
+			},
+			"Other": {
+				"Votes": 8772,
+				"Total Votes": 1636588,
+				"Candidates": 19,
+				"Total Candidates": 154,
+				"Seats": 0,
+				"Total Seats": 36,
+				"Vote Share": 0.005
+			}
+		},
+		"1983": {
+			"CON": {
+				"Votes": 499310,
+				"Total Votes": 1608986,
+				"Candidates": 38,
+				"Total Candidates": 169,
+				"Seats": 14,
+				"Total Seats": 38,
+				"Vote Share": 0.31
+			},
+			"LAB": {
+				"Votes": 603858,
+				"Total Votes": 1608986,
+				"Candidates": 38,
+				"Total Candidates": 169,
+				"Seats": 20,
+				"Total Seats": 38,
+				"Vote Share": 0.375
+			},
+			"LD": {
+				"Votes": 373358,
+				"Total Votes": 1608986,
+				"Candidates": 38,
+				"Total Candidates": 169,
+				"Seats": 2,
+				"Total Seats": 38,
+				"Vote Share": 0.232
+			},
+			"PC/SNP": {
+				"Votes": 125309,
+				"Total Votes": 1608986,
+				"Candidates": 38,
+				"Total Candidates": 169,
+				"Seats": 2,
+				"Total Seats": 38,
+				"Vote Share": 0.078
+			},
+			"Other": {
+				"Votes": 7151,
+				"Total Votes": 1608986,
+				"Candidates": 17,
+				"Total Candidates": 169,
+				"Seats": 0,
+				"Total Seats": 38,
+				"Vote Share": 0.004
+			}
+		},
+		"1987": {
+			"CON": {
+				"Votes": 501316,
+				"Total Votes": 1698096,
+				"Candidates": 38,
+				"Total Candidates": 158,
+				"Seats": 8,
+				"Total Seats": 38,
+				"Vote Share": 0.295
+			},
+			"LAB": {
+				"Votes": 765209,
+				"Total Votes": 1698096,
+				"Candidates": 38,
+				"Total Candidates": 158,
+				"Seats": 24,
+				"Total Seats": 38,
+				"Vote Share": 0.451
+			},
+			"LD": {
+				"Votes": 304230,
+				"Total Votes": 1698096,
+				"Candidates": 38,
+				"Total Candidates": 158,
+				"Seats": 3,
+				"Total Seats": 38,
+				"Vote Share": 0.179
+			},
+			"PC/SNP": {
+				"Votes": 123599,
+				"Total Votes": 1698096,
+				"Candidates": 38,
+				"Total Candidates": 158,
+				"Seats": 3,
+				"Total Seats": 38,
+				"Vote Share": 0.073
+			},
+			"Other": {
+				"Votes": 3742,
+				"Total Votes": 1698096,
+				"Candidates": 6,
+				"Total Candidates": 158,
+				"Seats": 0,
+				"Total Seats": 38,
+				"Vote Share": 0.002
+			}
+		},
+		"1992": {
+			"CON": {
+				"Votes": 499677,
+				"Total Votes": 1748777,
+				"Candidates": 38,
+				"Total Candidates": 180,
+				"Seats": 6,
+				"Total Seats": 38,
+				"Vote Share": 0.286
+			},
+			"LAB": {
+				"Votes": 865663,
+				"Total Votes": 1748777,
+				"Candidates": 38,
+				"Total Candidates": 180,
+				"Seats": 27,
+				"Total Seats": 38,
+				"Vote Share": 0.495
+			},
+			"LD": {
+				"Votes": 217457,
+				"Total Votes": 1748777,
+				"Candidates": 38,
+				"Total Candidates": 180,
+				"Seats": 1,
+				"Total Seats": 38,
+				"Vote Share": 0.124
+			},
+			"PC/SNP": {
+				"Votes": 154947,
+				"Total Votes": 1748777,
+				"Candidates": 35,
+				"Total Candidates": 180,
+				"Seats": 4,
+				"Total Seats": 38,
+				"Vote Share": 0.089
+			},
+			"Other": {
+				"Votes": 11033,
+				"Total Votes": 1748777,
+				"Candidates": 31,
+				"Total Candidates": 180,
+				"Seats": 0,
+				"Total Seats": 38,
+				"Vote Share": 0.006
+			}
+		},
+		"1997": {
+			"CON": {
+				"Votes": 317145,
+				"Total Votes": 1620062,
+				"Candidates": 40,
+				"Total Candidates": 223,
+				"Seats": 0,
+				"Total Seats": 40,
+				"Vote Share": 0.196
+			},
+			"LAB": {
+				"Votes": 886935,
+				"Total Votes": 1620062,
+				"Candidates": 40,
+				"Total Candidates": 223,
+				"Seats": 34,
+				"Total Seats": 40,
+				"Vote Share": 0.547
+			},
+			"LD": {
+				"Votes": 200020,
+				"Total Votes": 1620062,
+				"Candidates": 40,
+				"Total Candidates": 223,
+				"Seats": 2,
+				"Total Seats": 40,
+				"Vote Share": 0.123
+			},
+			"PC/SNP": {
+				"Votes": 161030,
+				"Total Votes": 1620062,
+				"Candidates": 40,
+				"Total Candidates": 223,
+				"Seats": 4,
+				"Total Seats": 40,
+				"Vote Share": 0.099
+			},
+			"Other": {
+				"Votes": 54932,
+				"Total Votes": 1620062,
+				"Candidates": 63,
+				"Total Candidates": 223,
+				"Seats": 0,
+				"Total Seats": 40,
+				"Vote Share": 0.034
+			}
+		},
+		"2001": {
+			"CON": {
+				"Votes": 268665,
+				"Total Votes": 1372546,
+				"Candidates": 40,
+				"Total Candidates": 224,
+				"Seats": 0,
+				"Total Seats": 40,
+				"Vote Share": 0.196
+			},
+			"LAB": {
+				"Votes": 666956,
+				"Total Votes": 1372546,
+				"Candidates": 40,
+				"Total Candidates": 224,
+				"Seats": 34,
+				"Total Seats": 40,
+				"Vote Share": 0.486
+			},
+			"LD": {
+				"Votes": 189434,
+				"Total Votes": 1372546,
+				"Candidates": 40,
+				"Total Candidates": 224,
+				"Seats": 2,
+				"Total Seats": 40,
+				"Vote Share": 0.138
+			},
+			"PC/SNP": {
+				"Votes": 195893,
+				"Total Votes": 1372546,
+				"Candidates": 40,
+				"Total Candidates": 224,
+				"Seats": 4,
+				"Total Seats": 40,
+				"Vote Share": 0.143
+			},
+			"Other": {
+				"Votes": 51598,
+				"Total Votes": 1372546,
+				"Candidates": 64,
+				"Total Candidates": 224,
+				"Seats": 0,
+				"Total Seats": 40,
+				"Vote Share": 0.038
+			}
+		},
+		"2005": {
+			"CON": {
+				"Votes": 297830,
+				"Total Votes": 1392719,
+				"Candidates": 40,
+				"Total Candidates": 250,
+				"Seats": 3,
+				"Total Seats": 40,
+				"Vote Share": 0.214
+			},
+			"LAB": {
+				"Votes": 594821,
+				"Total Votes": 1392719,
+				"Candidates": 40,
+				"Total Candidates": 250,
+				"Seats": 29,
+				"Total Seats": 40,
+				"Vote Share": 0.427
+			},
+			"LD": {
+				"Votes": 256249,
+				"Total Votes": 1392719,
+				"Candidates": 40,
+				"Total Candidates": 250,
+				"Seats": 4,
+				"Total Seats": 40,
+				"Vote Share": 0.184
+			},
+			"PC/SNP": {
+				"Votes": 174838,
+				"Total Votes": 1392719,
+				"Candidates": 40,
+				"Total Candidates": 250,
+				"Seats": 3,
+				"Total Seats": 40,
+				"Vote Share": 0.126
+			},
+			"Other": {
+				"Votes": 68981,
+				"Total Votes": 1392719,
+				"Candidates": 90,
+				"Total Candidates": 250,
+				"Seats": 1,
+				"Total Seats": 40,
+				"Vote Share": 0.05
+			}
+		},
+		"2010": {
+			"CON": {
+				"Votes": 382730,
+				"Total Votes": 1466685,
+				"Candidates": 40,
+				"Total Candidates": 268,
+				"Seats": 8,
+				"Total Seats": 40,
+				"Vote Share": 0.261
+			},
+			"LAB": {
+				"Votes": 531602,
+				"Total Votes": 1466685,
+				"Candidates": 40,
+				"Total Candidates": 268,
+				"Seats": 26,
+				"Total Seats": 40,
+				"Vote Share": 0.362
+			},
+			"LD": {
+				"Votes": 295164,
+				"Total Votes": 1466685,
+				"Candidates": 40,
+				"Total Candidates": 268,
+				"Seats": 3,
+				"Total Seats": 40,
+				"Vote Share": 0.201
+			},
+			"PC/SNP": {
+				"Votes": 165394,
+				"Total Votes": 1466685,
+				"Candidates": 40,
+				"Total Candidates": 268,
+				"Seats": 3,
+				"Total Seats": 40,
+				"Vote Share": 0.113
+			},
+			"Other": {
+				"Votes": 91795,
+				"Total Votes": 1466685,
+				"Candidates": 108,
+				"Total Candidates": 268,
+				"Seats": 0,
+				"Total Seats": 40,
+				"Vote Share": 0.063
+			}
+		},
+		"2015": {
+			"CON": {
+				"Votes": 407800,
+				"Total Votes": 1498100,
+				"Candidates": 40,
+				"Total Candidates": 278,
+				"Seats": 11,
+				"Total Seats": 40,
+				"Vote Share": 0.272
+			},
+			"LAB": {
+				"Votes": 552500,
+				"Total Votes": 1498100,
+				"Candidates": 40,
+				"Total Candidates": 278,
+				"Seats": 25,
+				"Total Seats": 40,
+				"Vote Share": 0.369
+			},
+			"LD": {
+				"Votes": 97800,
+				"Total Votes": 1498100,
+				"Candidates": 40,
+				"Total Candidates": 278,
+				"Seats": 1,
+				"Total Seats": 40,
+				"Vote Share": 0.065
+			},
+			"PC/SNP": {
+				"Votes": 181700,
+				"Total Votes": 1498100,
+				"Candidates": 40,
+				"Total Candidates": 278,
+				"Seats": 3,
+				"Total Seats": 40,
+				"Vote Share": 0.121
+			},
+			"Other": {
+				"Votes": 258300,
+				"Total Votes": 1498100,
+				"Candidates": 118,
+				"Total Candidates": 278,
+				"Seats": 0,
+				"Total Seats": 40,
+				"Vote Share": 0.172
+			}
+		},
+		"2017": {
+			"CON": {
+				"Votes": 528839,
+				"Total Votes": 1575798,
+				"Candidates": 40,
+				"Total Candidates": 213,
+				"Seats": 8,
+				"Total Seats": 40,
+				"Vote Share": 0.336
+			},
+			"LAB": {
+				"Votes": 771354,
+				"Total Votes": 1575798,
+				"Candidates": 40,
+				"Total Candidates": 213,
+				"Seats": 28,
+				"Total Seats": 40,
+				"Vote Share": 0.49
+			},
+			"LD": {
+				"Votes": 71039,
+				"Total Votes": 1575798,
+				"Candidates": 40,
+				"Total Candidates": 213,
+				"Seats": 0,
+				"Total Seats": 40,
+				"Vote Share": 0.045
+			},
+			"PC/SNP": {
+				"Votes": 164466,
+				"Total Votes": 1575798,
+				"Candidates": 40,
+				"Total Candidates": 213,
+				"Seats": 4,
+				"Total Seats": 40,
+				"Vote Share": 0.104
+			},
+			"Other": {
+				"Votes": 40100,
+				"Total Votes": 1575798,
+				"Candidates": 53,
+				"Total Candidates": 213,
+				"Seats": 0,
+				"Total Seats": 40,
+				"Vote Share": 0.025
+			}
+		},
+		"2019": {
+			"CON": {
+				"Votes": 557234,
+				"Total Votes": 1544357,
+				"Candidates": 40,
+				"Total Candidates": 216,
+				"Seats": 14,
+				"Total Seats": 40,
+				"Vote Share": 0.361
+			},
+			"LAB": {
+				"Votes": 632035,
+				"Total Votes": 1544357,
+				"Candidates": 40,
+				"Total Candidates": 216,
+				"Seats": 22,
+				"Total Seats": 40,
+				"Vote Share": 0.409
+			},
+			"LD": {
+				"Votes": 92171,
+				"Total Votes": 1544357,
+				"Candidates": 32,
+				"Total Candidates": 216,
+				"Seats": 0,
+				"Total Seats": 40,
+				"Vote Share": 0.06
+			},
+			"PC/SNP": {
+				"Votes": 153265,
+				"Total Votes": 1544357,
+				"Candidates": 36,
+				"Total Candidates": 216,
+				"Seats": 4,
+				"Total Seats": 40,
+				"Vote Share": 0.099
+			},
+			"Other": {
+				"Votes": 109652,
+				"Total Votes": 1544357,
+				"Candidates": 68,
+				"Total Candidates": 216,
+				"Seats": 0,
+				"Total Seats": 40,
+				"Vote Share": 0.071
+			}
+		}
+	},
+	"S": {
+		"1918": {
+			"CON": {
+				"Votes": 358469,
+				"Total Votes": 1126711,
+				"Candidates": 37,
+				"Total Candidates": 165,
+				"Seats": 30,
+				"Total Seats": 71,
+				"Vote Share": 0.328
+			},
+			"LAB": {
+				"Votes": 265744,
+				"Total Votes": 1126711,
+				"Candidates": 39,
+				"Total Candidates": 165,
+				"Seats": 6,
+				"Total Seats": 71,
+				"Vote Share": 0.229
+			},
+			"LD": {
+				"Votes": 385105,
+				"Total Votes": 1126711,
+				"Candidates": 61,
+				"Total Candidates": 165,
+				"Seats": 33,
+				"Total Seats": 71,
+				"Vote Share": 0.341
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 1126711,
+				"Candidates": null,
+				"Total Candidates": 165,
+				"Seats": null,
+				"Total Seats": 71,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 117393,
+				"Total Votes": 1126711,
+				"Candidates": 28,
+				"Total Candidates": 165,
+				"Seats": 2,
+				"Total Seats": 71,
+				"Vote Share": 0.102
+			}
+		},
+		"1922": {
+			"CON": {
+				"Votes": 379396,
+				"Total Votes": 1569361,
+				"Candidates": 36,
+				"Total Candidates": 168,
+				"Seats": 13,
+				"Total Seats": 71,
+				"Vote Share": 0.251
+			},
+			"LAB": {
+				"Votes": 501254,
+				"Total Votes": 1569361,
+				"Candidates": 43,
+				"Total Candidates": 168,
+				"Seats": 29,
+				"Total Seats": 71,
+				"Vote Share": 0.322
+			},
+			"LD": {
+				"Votes": 617178,
+				"Total Votes": 1569361,
+				"Candidates": 81,
+				"Total Candidates": 168,
+				"Seats": 27,
+				"Total Seats": 71,
+				"Vote Share": 0.392
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 1569361,
+				"Candidates": null,
+				"Total Candidates": 168,
+				"Seats": null,
+				"Total Seats": 71,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 71533,
+				"Total Votes": 1569361,
+				"Candidates": 8,
+				"Total Candidates": 168,
+				"Seats": 2,
+				"Total Seats": 71,
+				"Vote Share": 0.035
+			}
+		},
+		"1923": {
+			"CON": {
+				"Votes": 468526,
+				"Total Votes": 1501327,
+				"Candidates": 52,
+				"Total Candidates": 167,
+				"Seats": 14,
+				"Total Seats": 71,
+				"Vote Share": 0.316
+			},
+			"LAB": {
+				"Votes": 532450,
+				"Total Votes": 1501327,
+				"Candidates": 48,
+				"Total Candidates": 167,
+				"Seats": 34,
+				"Total Seats": 71,
+				"Vote Share": 0.359
+			},
+			"LD": {
+				"Votes": 422995,
+				"Total Votes": 1501327,
+				"Candidates": 59,
+				"Total Candidates": 167,
+				"Seats": 22,
+				"Total Seats": 71,
+				"Vote Share": 0.284
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 1501327,
+				"Candidates": null,
+				"Total Candidates": 167,
+				"Seats": null,
+				"Total Seats": 71,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 77356,
+				"Total Votes": 1501327,
+				"Candidates": 8,
+				"Total Candidates": 167,
+				"Seats": 1,
+				"Total Seats": 71,
+				"Vote Share": 0.041
+			}
+		},
+		"1924": {
+			"CON": {
+				"Votes": 688299,
+				"Total Votes": 1717108,
+				"Candidates": 56,
+				"Total Candidates": 156,
+				"Seats": 36,
+				"Total Seats": 71,
+				"Vote Share": 0.407
+			},
+			"LAB": {
+				"Votes": 697146,
+				"Total Votes": 1717108,
+				"Candidates": 63,
+				"Total Candidates": 156,
+				"Seats": 26,
+				"Total Seats": 71,
+				"Vote Share": 0.411
+			},
+			"LD": {
+				"Votes": 286540,
+				"Total Votes": 1717108,
+				"Candidates": 34,
+				"Total Candidates": 156,
+				"Seats": 8,
+				"Total Seats": 71,
+				"Vote Share": 0.166
+			},
+			"PC/SNP": {
+				"Votes": null,
+				"Total Votes": 1717108,
+				"Candidates": null,
+				"Total Candidates": 156,
+				"Seats": null,
+				"Total Seats": 71,
+				"Vote Share": null
+			},
+			"Other": {
+				"Votes": 45123,
+				"Total Votes": 1717108,
+				"Candidates": 3,
+				"Total Candidates": 156,
+				"Seats": 1,
+				"Total Seats": 71,
+				"Vote Share": 0.016
+			}
+		},
+		"1929": {
+			"CON": {
+				"Votes": 792063,
+				"Total Votes": 2242941,
+				"Candidates": 65,
+				"Total Candidates": 192,
+				"Seats": 20,
+				"Total Seats": 71,
+				"Vote Share": 0.359
+			},
+			"LAB": {
+				"Votes": 937300,
+				"Total Votes": 2242941,
+				"Candidates": 66,
+				"Total Candidates": 192,
+				"Seats": 36,
+				"Total Seats": 71,
+				"Vote Share": 0.423
+			},
+			"LD": {
+				"Votes": 407081,
+				"Total Votes": 2242941,
+				"Candidates": 45,
+				"Total Candidates": 192,
+				"Seats": 13,
+				"Total Seats": 71,
+				"Vote Share": 0.181
+			},
+			"PC/SNP": {
+				"Votes": 3313,
+				"Total Votes": 2242941,
+				"Candidates": 2,
+				"Total Candidates": 192,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.002
+			},
+			"Other": {
+				"Votes": 103184,
+				"Total Votes": 2242941,
+				"Candidates": 14,
+				"Total Candidates": 192,
+				"Seats": 2,
+				"Total Seats": 71,
+				"Vote Share": 0.035
+			}
+		},
+		"1931": {
+			"CON": {
+				"Votes": 1180001,
+				"Total Votes": 2174329,
+				"Candidates": 65,
+				"Total Candidates": 155,
+				"Seats": 57,
+				"Total Seats": 71,
+				"Vote Share": 0.554
+			},
+			"LAB": {
+				"Votes": 696248,
+				"Total Votes": 2174329,
+				"Candidates": 57,
+				"Total Candidates": 155,
+				"Seats": 7,
+				"Total Seats": 71,
+				"Vote Share": 0.326
+			},
+			"LD": {
+				"Votes": 205384,
+				"Total Votes": 2174329,
+				"Candidates": 14,
+				"Total Candidates": 155,
+				"Seats": 7,
+				"Total Seats": 71,
+				"Vote Share": 0.086
+			},
+			"PC/SNP": {
+				"Votes": 20954,
+				"Total Votes": 2174329,
+				"Candidates": 5,
+				"Total Candidates": 155,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.01
+			},
+			"Other": {
+				"Votes": 71742,
+				"Total Votes": 2174329,
+				"Candidates": 14,
+				"Total Candidates": 155,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.024
+			}
+		},
+		"1935": {
+			"CON": {
+				"Votes": 1135403,
+				"Total Votes": 2323797,
+				"Candidates": 69,
+				"Total Candidates": 167,
+				"Seats": 43,
+				"Total Seats": 71,
+				"Vote Share": 0.498
+			},
+			"LAB": {
+				"Votes": 863789,
+				"Total Votes": 2323797,
+				"Candidates": 63,
+				"Total Candidates": 167,
+				"Seats": 20,
+				"Total Seats": 71,
+				"Vote Share": 0.368
+			},
+			"LD": {
+				"Votes": 174235,
+				"Total Votes": 2323797,
+				"Candidates": 16,
+				"Total Candidates": 167,
+				"Seats": 3,
+				"Total Seats": 71,
+				"Vote Share": 0.067
+			},
+			"PC/SNP": {
+				"Votes": 25652,
+				"Total Votes": 2323797,
+				"Candidates": 7,
+				"Total Candidates": 167,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.011
+			},
+			"Other": {
+				"Votes": 124718,
+				"Total Votes": 2323797,
+				"Candidates": 12,
+				"Total Candidates": 167,
+				"Seats": 5,
+				"Total Seats": 71,
+				"Vote Share": 0.056
+			}
+		},
+		"1945": {
+			"CON": {
+				"Votes": 964143,
+				"Total Votes": 2389892,
+				"Candidates": 68,
+				"Total Candidates": 184,
+				"Seats": 27,
+				"Total Seats": 71,
+				"Vote Share": 0.403
+			},
+			"LAB": {
+				"Votes": 1144310,
+				"Total Votes": 2389892,
+				"Candidates": 68,
+				"Total Candidates": 184,
+				"Seats": 37,
+				"Total Seats": 71,
+				"Vote Share": 0.479
+			},
+			"LD": {
+				"Votes": 132849,
+				"Total Votes": 2389892,
+				"Candidates": 22,
+				"Total Candidates": 184,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.056
+			},
+			"PC/SNP": {
+				"Votes": 30595,
+				"Total Votes": 2389892,
+				"Candidates": 8,
+				"Total Candidates": 184,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.013
+			},
+			"Other": {
+				"Votes": 117995,
+				"Total Votes": 2389892,
+				"Candidates": 18,
+				"Total Candidates": 184,
+				"Seats": 7,
+				"Total Seats": 71,
+				"Vote Share": 0.049
+			}
+		},
+		"1950": {
+			"CON": {
+				"Votes": 1222010,
+				"Total Votes": 2726684,
+				"Candidates": 68,
+				"Total Candidates": 212,
+				"Seats": 31,
+				"Total Seats": 71,
+				"Vote Share": 0.448
+			},
+			"LAB": {
+				"Votes": 1259410,
+				"Total Votes": 2726684,
+				"Candidates": 71,
+				"Total Candidates": 212,
+				"Seats": 37,
+				"Total Seats": 71,
+				"Vote Share": 0.462
+			},
+			"LD": {
+				"Votes": 180270,
+				"Total Votes": 2726684,
+				"Candidates": 41,
+				"Total Candidates": 212,
+				"Seats": 2,
+				"Total Seats": 71,
+				"Vote Share": 0.066
+			},
+			"PC/SNP": {
+				"Votes": 9708,
+				"Total Votes": 2726684,
+				"Candidates": 3,
+				"Total Candidates": 212,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.004
+			},
+			"Other": {
+				"Votes": 55286,
+				"Total Votes": 2726684,
+				"Candidates": 29,
+				"Total Candidates": 212,
+				"Seats": 1,
+				"Total Seats": 71,
+				"Vote Share": 0.02
+			}
+		},
+		"1951": {
+			"CON": {
+				"Votes": 1349298,
+				"Total Votes": 2777837,
+				"Candidates": 70,
+				"Total Candidates": 160,
+				"Seats": 35,
+				"Total Seats": 71,
+				"Vote Share": 0.486
+			},
+			"LAB": {
+				"Votes": 1330244,
+				"Total Votes": 2777837,
+				"Candidates": 71,
+				"Total Candidates": 160,
+				"Seats": 35,
+				"Total Seats": 71,
+				"Vote Share": 0.479
+			},
+			"LD": {
+				"Votes": 76291,
+				"Total Votes": 2777837,
+				"Candidates": 9,
+				"Total Candidates": 160,
+				"Seats": 1,
+				"Total Seats": 71,
+				"Vote Share": 0.027
+			},
+			"PC/SNP": {
+				"Votes": 7299,
+				"Total Votes": 2777837,
+				"Candidates": 2,
+				"Total Candidates": 160,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.003
+			},
+			"Other": {
+				"Votes": 14705,
+				"Total Votes": 2777837,
+				"Candidates": 8,
+				"Total Candidates": 160,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.005
+			}
+		},
+		"1955": {
+			"CON": {
+				"Votes": 1273942,
+				"Total Votes": 2543254,
+				"Candidates": 71,
+				"Total Candidates": 156,
+				"Seats": 36,
+				"Total Seats": 71,
+				"Vote Share": 0.501
+			},
+			"LAB": {
+				"Votes": 1188058,
+				"Total Votes": 2543254,
+				"Candidates": 71,
+				"Total Candidates": 156,
+				"Seats": 34,
+				"Total Seats": 71,
+				"Vote Share": 0.467
+			},
+			"LD": {
+				"Votes": 47273,
+				"Total Votes": 2543254,
+				"Candidates": 5,
+				"Total Candidates": 156,
+				"Seats": 1,
+				"Total Seats": 71,
+				"Vote Share": 0.019
+			},
+			"PC/SNP": {
+				"Votes": 12112,
+				"Total Votes": 2543254,
+				"Candidates": 2,
+				"Total Candidates": 156,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.005
+			},
+			"Other": {
+				"Votes": 21869,
+				"Total Votes": 2543254,
+				"Candidates": 7,
+				"Total Candidates": 156,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.009
+			}
+		},
+		"1959": {
+			"CON": {
+				"Votes": 1260287,
+				"Total Votes": 2667513,
+				"Candidates": 70,
+				"Total Candidates": 172,
+				"Seats": 31,
+				"Total Seats": 71,
+				"Vote Share": 0.472
+			},
+			"LAB": {
+				"Votes": 1245255,
+				"Total Votes": 2667513,
+				"Candidates": 71,
+				"Total Candidates": 172,
+				"Seats": 38,
+				"Total Seats": 71,
+				"Vote Share": 0.467
+			},
+			"LD": {
+				"Votes": 108963,
+				"Total Votes": 2667513,
+				"Candidates": 16,
+				"Total Candidates": 172,
+				"Seats": 1,
+				"Total Seats": 71,
+				"Vote Share": 0.041
+			},
+			"PC/SNP": {
+				"Votes": 21738,
+				"Total Votes": 2667513,
+				"Candidates": 5,
+				"Total Candidates": 172,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.008
+			},
+			"Other": {
+				"Votes": 31270,
+				"Total Votes": 2667513,
+				"Candidates": 10,
+				"Total Candidates": 172,
+				"Seats": 1,
+				"Total Seats": 71,
+				"Vote Share": 0.012
+			}
+		},
+		"1964": {
+			"CON": {
+				"Votes": 1069695,
+				"Total Votes": 2634539,
+				"Candidates": 71,
+				"Total Candidates": 197,
+				"Seats": 24,
+				"Total Seats": 71,
+				"Vote Share": 0.406
+			},
+			"LAB": {
+				"Votes": 1283667,
+				"Total Votes": 2634539,
+				"Candidates": 71,
+				"Total Candidates": 197,
+				"Seats": 43,
+				"Total Seats": 71,
+				"Vote Share": 0.487
+			},
+			"LD": {
+				"Votes": 200063,
+				"Total Votes": 2634539,
+				"Candidates": 26,
+				"Total Candidates": 197,
+				"Seats": 4,
+				"Total Seats": 71,
+				"Vote Share": 0.076
+			},
+			"PC/SNP": {
+				"Votes": 64044,
+				"Total Votes": 2634539,
+				"Candidates": 15,
+				"Total Candidates": 197,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.024
+			},
+			"Other": {
+				"Votes": 17070,
+				"Total Votes": 2634539,
+				"Candidates": 14,
+				"Total Candidates": 197,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.006
+			}
+		},
+		"1966": {
+			"CON": {
+				"Votes": 960675,
+				"Total Votes": 2552380,
+				"Candidates": 71,
+				"Total Candidates": 206,
+				"Seats": 20,
+				"Total Seats": 71,
+				"Vote Share": 0.376
+			},
+			"LAB": {
+				"Votes": 1273916,
+				"Total Votes": 2552380,
+				"Candidates": 71,
+				"Total Candidates": 206,
+				"Seats": 46,
+				"Total Seats": 71,
+				"Vote Share": 0.499
+			},
+			"LD": {
+				"Votes": 172447,
+				"Total Votes": 2552380,
+				"Candidates": 24,
+				"Total Candidates": 206,
+				"Seats": 5,
+				"Total Seats": 71,
+				"Vote Share": 0.068
+			},
+			"PC/SNP": {
+				"Votes": 128474,
+				"Total Votes": 2552380,
+				"Candidates": 23,
+				"Total Candidates": 206,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.05
+			},
+			"Other": {
+				"Votes": 16868,
+				"Total Votes": 2552380,
+				"Candidates": 17,
+				"Total Candidates": 206,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.007
+			}
+		},
+		"1970": {
+			"CON": {
+				"Votes": 1020674,
+				"Total Votes": 2688235,
+				"Candidates": 70,
+				"Total Candidates": 256,
+				"Seats": 23,
+				"Total Seats": 71,
+				"Vote Share": 0.38
+			},
+			"LAB": {
+				"Votes": 1197068,
+				"Total Votes": 2688235,
+				"Candidates": 71,
+				"Total Candidates": 256,
+				"Seats": 44,
+				"Total Seats": 71,
+				"Vote Share": 0.445
+			},
+			"LD": {
+				"Votes": 147667,
+				"Total Votes": 2688235,
+				"Candidates": 27,
+				"Total Candidates": 256,
+				"Seats": 3,
+				"Total Seats": 71,
+				"Vote Share": 0.055
+			},
+			"PC/SNP": {
+				"Votes": 306802,
+				"Total Votes": 2688235,
+				"Candidates": 65,
+				"Total Candidates": 256,
+				"Seats": 1,
+				"Total Seats": 71,
+				"Vote Share": 0.114
+			},
+			"Other": {
+				"Votes": 16024,
+				"Total Votes": 2688235,
+				"Candidates": 23,
+				"Total Candidates": 256,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.006
+			}
+		},
+		"1974F": {
+			"CON": {
+				"Votes": 950668,
+				"Total Votes": 2887075,
+				"Candidates": 71,
+				"Total Candidates": 265,
+				"Seats": 21,
+				"Total Seats": 71,
+				"Vote Share": 0.329
+			},
+			"LAB": {
+				"Votes": 1057601,
+				"Total Votes": 2887075,
+				"Candidates": 71,
+				"Total Candidates": 265,
+				"Seats": 40,
+				"Total Seats": 71,
+				"Vote Share": 0.366
+			},
+			"LD": {
+				"Votes": 229162,
+				"Total Votes": 2887075,
+				"Candidates": 34,
+				"Total Candidates": 265,
+				"Seats": 3,
+				"Total Seats": 71,
+				"Vote Share": 0.079
+			},
+			"PC/SNP": {
+				"Votes": 633180,
+				"Total Votes": 2887075,
+				"Candidates": 70,
+				"Total Candidates": 265,
+				"Seats": 7,
+				"Total Seats": 71,
+				"Vote Share": 0.219
+			},
+			"Other": {
+				"Votes": 16464,
+				"Total Votes": 2887075,
+				"Candidates": 19,
+				"Total Candidates": 265,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.006
+			}
+		},
+		"1974O": {
+			"CON": {
+				"Votes": 681327,
+				"Total Votes": 2758101,
+				"Candidates": 71,
+				"Total Candidates": 293,
+				"Seats": 16,
+				"Total Seats": 71,
+				"Vote Share": 0.247
+			},
+			"LAB": {
+				"Votes": 1000581,
+				"Total Votes": 2758101,
+				"Candidates": 71,
+				"Total Candidates": 293,
+				"Seats": 41,
+				"Total Seats": 71,
+				"Vote Share": 0.363
+			},
+			"LD": {
+				"Votes": 228855,
+				"Total Votes": 2758101,
+				"Candidates": 68,
+				"Total Candidates": 293,
+				"Seats": 3,
+				"Total Seats": 71,
+				"Vote Share": 0.083
+			},
+			"PC/SNP": {
+				"Votes": 839617,
+				"Total Votes": 2758101,
+				"Candidates": 71,
+				"Total Candidates": 293,
+				"Seats": 11,
+				"Total Seats": 71,
+				"Vote Share": 0.304
+			},
+			"Other": {
+				"Votes": 7721,
+				"Total Votes": 2758101,
+				"Candidates": 12,
+				"Total Candidates": 293,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.003
+			}
+		},
+		"1979": {
+			"CON": {
+				"Votes": 916155,
+				"Total Votes": 2916637,
+				"Candidates": 71,
+				"Total Candidates": 284,
+				"Seats": 22,
+				"Total Seats": 71,
+				"Vote Share": 0.314
+			},
+			"LAB": {
+				"Votes": 1211445,
+				"Total Votes": 2916637,
+				"Candidates": 71,
+				"Total Candidates": 284,
+				"Seats": 44,
+				"Total Seats": 71,
+				"Vote Share": 0.415
+			},
+			"LD": {
+				"Votes": 262224,
+				"Total Votes": 2916637,
+				"Candidates": 43,
+				"Total Candidates": 284,
+				"Seats": 3,
+				"Total Seats": 71,
+				"Vote Share": 0.09
+			},
+			"PC/SNP": {
+				"Votes": 504259,
+				"Total Votes": 2916637,
+				"Candidates": 71,
+				"Total Candidates": 284,
+				"Seats": 2,
+				"Total Seats": 71,
+				"Vote Share": 0.173
+			},
+			"Other": {
+				"Votes": 22554,
+				"Total Votes": 2916637,
+				"Candidates": 28,
+				"Total Candidates": 284,
+				"Seats": 0,
+				"Total Seats": 71,
+				"Vote Share": 0.008
+			}
+		},
+		"1983": {
+			"CON": {
+				"Votes": 801487,
+				"Total Votes": 2824580,
+				"Candidates": 72,
+				"Total Candidates": 314,
+				"Seats": 21,
+				"Total Seats": 72,
+				"Vote Share": 0.284
+			},
+			"LAB": {
+				"Votes": 990654,
+				"Total Votes": 2824580,
+				"Candidates": 72,
+				"Total Candidates": 314,
+				"Seats": 41,
+				"Total Seats": 72,
+				"Vote Share": 0.351
+			},
+			"LD": {
+				"Votes": 692634,
+				"Total Votes": 2824580,
+				"Candidates": 72,
+				"Total Candidates": 314,
+				"Seats": 8,
+				"Total Seats": 72,
+				"Vote Share": 0.245
+			},
+			"PC/SNP": {
+				"Votes": 331975,
+				"Total Votes": 2824580,
+				"Candidates": 72,
+				"Total Candidates": 314,
+				"Seats": 2,
+				"Total Seats": 72,
+				"Vote Share": 0.118
+			},
+			"Other": {
+				"Votes": 7830,
+				"Total Votes": 2824580,
+				"Candidates": 26,
+				"Total Candidates": 314,
+				"Seats": 0,
+				"Total Seats": 72,
+				"Vote Share": 0.003
+			}
+		},
+		"1987": {
+			"CON": {
+				"Votes": 713081,
+				"Total Votes": 2967808,
+				"Candidates": 72,
+				"Total Candidates": 308,
+				"Seats": 10,
+				"Total Seats": 72,
+				"Vote Share": 0.24
+			},
+			"LAB": {
+				"Votes": 1258132,
+				"Total Votes": 2967808,
+				"Candidates": 72,
+				"Total Candidates": 308,
+				"Seats": 50,
+				"Total Seats": 72,
+				"Vote Share": 0.424
+			},
+			"LD": {
+				"Votes": 570053,
+				"Total Votes": 2967808,
+				"Candidates": 72,
+				"Total Candidates": 308,
+				"Seats": 9,
+				"Total Seats": 72,
+				"Vote Share": 0.192
+			},
+			"PC/SNP": {
+				"Votes": 416473,
+				"Total Votes": 2967808,
+				"Candidates": 71,
+				"Total Candidates": 308,
+				"Seats": 3,
+				"Total Seats": 72,
+				"Vote Share": 0.14
+			},
+			"Other": {
+				"Votes": 10069,
+				"Total Votes": 2967808,
+				"Candidates": 21,
+				"Total Candidates": 308,
+				"Seats": 0,
+				"Total Seats": 72,
+				"Vote Share": 0.003
+			}
+		},
+		"1992": {
+			"CON": {
+				"Votes": 751950,
+				"Total Votes": 2931698,
+				"Candidates": 72,
+				"Total Candidates": 341,
+				"Seats": 11,
+				"Total Seats": 72,
+				"Vote Share": 0.256
+			},
+			"LAB": {
+				"Votes": 1142911,
+				"Total Votes": 2931698,
+				"Candidates": 72,
+				"Total Candidates": 341,
+				"Seats": 49,
+				"Total Seats": 72,
+				"Vote Share": 0.39
+			},
+			"LD": {
+				"Votes": 383856,
+				"Total Votes": 2931698,
+				"Candidates": 72,
+				"Total Candidates": 341,
+				"Seats": 9,
+				"Total Seats": 72,
+				"Vote Share": 0.131
+			},
+			"PC/SNP": {
+				"Votes": 629564,
+				"Total Votes": 2931698,
+				"Candidates": 72,
+				"Total Candidates": 341,
+				"Seats": 3,
+				"Total Seats": 72,
+				"Vote Share": 0.215
+			},
+			"Other": {
+				"Votes": 23417,
+				"Total Votes": 2931698,
+				"Candidates": 53,
+				"Total Candidates": 341,
+				"Seats": 0,
+				"Total Seats": 72,
+				"Vote Share": 0.008
+			}
+		},
+		"1997": {
+			"CON": {
+				"Votes": 493059,
+				"Total Votes": 2816748,
+				"Candidates": 72,
+				"Total Candidates": 431,
+				"Seats": 0,
+				"Total Seats": 72,
+				"Vote Share": 0.175
+			},
+			"LAB": {
+				"Votes": 1283350,
+				"Total Votes": 2816748,
+				"Candidates": 72,
+				"Total Candidates": 431,
+				"Seats": 56,
+				"Total Seats": 72,
+				"Vote Share": 0.456
+			},
+			"LD": {
+				"Votes": 365362,
+				"Total Votes": 2816748,
+				"Candidates": 72,
+				"Total Candidates": 431,
+				"Seats": 10,
+				"Total Seats": 72,
+				"Vote Share": 0.13
+			},
+			"PC/SNP": {
+				"Votes": 621550,
+				"Total Votes": 2816748,
+				"Candidates": 72,
+				"Total Candidates": 431,
+				"Seats": 6,
+				"Total Seats": 72,
+				"Vote Share": 0.221
+			},
+			"Other": {
+				"Votes": 53427,
+				"Total Votes": 2816748,
+				"Candidates": 143,
+				"Total Candidates": 431,
+				"Seats": 0,
+				"Total Seats": 72,
+				"Vote Share": 0.019
+			}
+		},
+		"2001": {
+			"CON": {
+				"Votes": 360658,
+				"Total Votes": 2313701,
+				"Candidates": 71,
+				"Total Candidates": 407,
+				"Seats": 1,
+				"Total Seats": 72,
+				"Vote Share": 0.156
+			},
+			"LAB": {
+				"Votes": 1001173,
+				"Total Votes": 2313701,
+				"Candidates": 71,
+				"Total Candidates": 407,
+				"Seats": 55,
+				"Total Seats": 72,
+				"Vote Share": 0.433
+			},
+			"LD": {
+				"Votes": 378034,
+				"Total Votes": 2313701,
+				"Candidates": 71,
+				"Total Candidates": 407,
+				"Seats": 10,
+				"Total Seats": 72,
+				"Vote Share": 0.163
+			},
+			"PC/SNP": {
+				"Votes": 464314,
+				"Total Votes": 2313701,
+				"Candidates": 72,
+				"Total Candidates": 407,
+				"Seats": 5,
+				"Total Seats": 72,
+				"Vote Share": 0.201
+			},
+			"Other": {
+				"Votes": 109522,
+				"Total Votes": 2313701,
+				"Candidates": 122,
+				"Total Candidates": 407,
+				"Seats": 1,
+				"Total Seats": 72,
+				"Vote Share": 0.047
+			}
+		},
+		"2005": {
+			"CON": {
+				"Votes": 369388,
+				"Total Votes": 2333887,
+				"Candidates": 58,
+				"Total Candidates": 382,
+				"Seats": 1,
+				"Total Seats": 59,
+				"Vote Share": 0.158
+			},
+			"LAB": {
+				"Votes": 907249,
+				"Total Votes": 2333887,
+				"Candidates": 58,
+				"Total Candidates": 382,
+				"Seats": 40,
+				"Total Seats": 59,
+				"Vote Share": 0.389
+			},
+			"LD": {
+				"Votes": 528076,
+				"Total Votes": 2333887,
+				"Candidates": 58,
+				"Total Candidates": 382,
+				"Seats": 11,
+				"Total Seats": 59,
+				"Vote Share": 0.226
+			},
+			"PC/SNP": {
+				"Votes": 412267,
+				"Total Votes": 2333887,
+				"Candidates": 59,
+				"Total Candidates": 382,
+				"Seats": 6,
+				"Total Seats": 59,
+				"Vote Share": 0.177
+			},
+			"Other": {
+				"Votes": 116907,
+				"Total Votes": 2333887,
+				"Candidates": 149,
+				"Total Candidates": 382,
+				"Seats": 1,
+				"Total Seats": 59,
+				"Vote Share": 0.05
+			}
+		},
+		"2010": {
+			"CON": {
+				"Votes": 412905,
+				"Total Votes": 2465780,
+				"Candidates": 59,
+				"Total Candidates": 349,
+				"Seats": 1,
+				"Total Seats": 59,
+				"Vote Share": 0.167
+			},
+			"LAB": {
+				"Votes": 1035528,
+				"Total Votes": 2465780,
+				"Candidates": 59,
+				"Total Candidates": 349,
+				"Seats": 41,
+				"Total Seats": 59,
+				"Vote Share": 0.42
+			},
+			"LD": {
+				"Votes": 465471,
+				"Total Votes": 2465780,
+				"Candidates": 59,
+				"Total Candidates": 349,
+				"Seats": 11,
+				"Total Seats": 59,
+				"Vote Share": 0.189
+			},
+			"PC/SNP": {
+				"Votes": 491386,
+				"Total Votes": 2465780,
+				"Candidates": 59,
+				"Total Candidates": 349,
+				"Seats": 6,
+				"Total Seats": 59,
+				"Vote Share": 0.199
+			},
+			"Other": {
+				"Votes": 60490,
+				"Total Votes": 2465780,
+				"Candidates": 113,
+				"Total Candidates": 349,
+				"Seats": 0,
+				"Total Seats": 59,
+				"Vote Share": 0.025
+			}
+		},
+		"2015": {
+			"CON": {
+				"Votes": 434100,
+				"Total Votes": 2910500,
+				"Candidates": 59,
+				"Total Candidates": 346,
+				"Seats": 1,
+				"Total Seats": 59,
+				"Vote Share": 0.149
+			},
+			"LAB": {
+				"Votes": 707100,
+				"Total Votes": 2910500,
+				"Candidates": 59,
+				"Total Candidates": 346,
+				"Seats": 1,
+				"Total Seats": 59,
+				"Vote Share": 0.243
+			},
+			"LD": {
+				"Votes": 219700,
+				"Total Votes": 2910500,
+				"Candidates": 59,
+				"Total Candidates": 346,
+				"Seats": 1,
+				"Total Seats": 59,
+				"Vote Share": 0.075
+			},
+			"PC/SNP": {
+				"Votes": 1454400,
+				"Total Votes": 2910500,
+				"Candidates": 59,
+				"Total Candidates": 346,
+				"Seats": 56,
+				"Total Seats": 59,
+				"Vote Share": 0.5
+			},
+			"Other": {
+				"Votes": 95200,
+				"Total Votes": 2910500,
+				"Candidates": 110,
+				"Total Candidates": 346,
+				"Seats": 0,
+				"Total Seats": 59,
+				"Vote Share": 0.033
+			}
+		},
+		"2017": {
+			"CON": {
+				"Votes": 757949,
+				"Total Votes": 2649695,
+				"Candidates": 59,
+				"Total Candidates": 266,
+				"Seats": 13,
+				"Total Seats": 59,
+				"Vote Share": 0.286
+			},
+			"LAB": {
+				"Votes": 717007,
+				"Total Votes": 2649695,
+				"Candidates": 59,
+				"Total Candidates": 266,
+				"Seats": 7,
+				"Total Seats": 59,
+				"Vote Share": 0.271
+			},
+			"LD": {
+				"Votes": 179062,
+				"Total Votes": 2649695,
+				"Candidates": 59,
+				"Total Candidates": 266,
+				"Seats": 4,
+				"Total Seats": 59,
+				"Vote Share": 0.068
+			},
+			"PC/SNP": {
+				"Votes": 977568,
+				"Total Votes": 2649695,
+				"Candidates": 59,
+				"Total Candidates": 266,
+				"Seats": 35,
+				"Total Seats": 59,
+				"Vote Share": 0.369
+			},
+			"Other": {
+				"Votes": 18109,
+				"Total Votes": 2649695,
+				"Candidates": 30,
+				"Total Candidates": 266,
+				"Seats": 0,
+				"Total Seats": 59,
+				"Vote Share": 0.007
+			}
+		},
+		"2019": {
+			"CON": {
+				"Votes": 692939,
+				"Total Votes": 2759061,
+				"Candidates": 59,
+				"Total Candidates": 292,
+				"Seats": 6,
+				"Total Seats": 59,
+				"Vote Share": 0.251
+			},
+			"LAB": {
+				"Votes": 511838,
+				"Total Votes": 2759061,
+				"Candidates": 59,
+				"Total Candidates": 292,
+				"Seats": 1,
+				"Total Seats": 59,
+				"Vote Share": 0.186
+			},
+			"LD": {
+				"Votes": 263035,
+				"Total Votes": 2759061,
+				"Candidates": 59,
+				"Total Candidates": 292,
+				"Seats": 4,
+				"Total Seats": 59,
+				"Vote Share": 0.095
+			},
+			"PC/SNP": {
+				"Votes": 1242380,
+				"Total Votes": 2759061,
+				"Candidates": 59,
+				"Total Candidates": 292,
+				"Seats": 48,
+				"Total Seats": 59,
+				"Vote Share": 0.45
+			},
+			"Other": {
+				"Votes": 48487,
+				"Total Votes": 2759061,
+				"Candidates": 56,
+				"Total Candidates": 292,
+				"Seats": 0,
+				"Total Seats": 59,
+				"Vote Share": 0.018
+			}
+		}
+	}
+}
