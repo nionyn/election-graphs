@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/election_graphs/static/css/main.db62923b.css",
-    "main.js": "/election_graphs/static/js/main.dde2555e.js",
-    "static/js/453.85b4d8fe.chunk.js": "/election_graphs/static/js/453.85b4d8fe.chunk.js",
-    "index.html": "/election_graphs/index.html",
-    "main.db62923b.css.map": "/election_graphs/static/css/main.db62923b.css.map",
-    "main.dde2555e.js.map": "/election_graphs/static/js/main.dde2555e.js.map",
-    "453.85b4d8fe.chunk.js.map": "/election_graphs/static/js/453.85b4d8fe.chunk.js.map"
+    "main.css": "/election-graphs/static/css/main.db62923b.css",
+    "main.js": "/election-graphs/static/js/main.9f8220c7.js",
+    "static/js/453.85b4d8fe.chunk.js": "/election-graphs/static/js/453.85b4d8fe.chunk.js",
+    "index.html": "/election-graphs/index.html",
+    "main.db62923b.css.map": "/election-graphs/static/css/main.db62923b.css.map",
+    "main.9f8220c7.js.map": "/election-graphs/static/js/main.9f8220c7.js.map",
+    "453.85b4d8fe.chunk.js.map": "/election-graphs/static/js/453.85b4d8fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
-    "static/js/main.dde2555e.js"
+    "static/js/main.9f8220c7.js"
   ]
 }
